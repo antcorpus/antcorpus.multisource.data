@@ -10,7 +10,7 @@ Version details
 
 | Version  | Articles number | Words number | Number of categories | Source
 | :------: | :-------------: | :---------: | :-------------------: | :-----:|
-| v2.1 **(current)** | 31 798  | > 9 670 000 | 6 | 6 different news sources (see below) |
+| v2.1 **(current)** | 31 798  | > 9 670 000 | 6 | 5 different news sources (see below) |
 | v1.1 | 10 161  | > 1 474 000 | 9 | [JawharaFM](http://www.jawharafm.net/ar/) |
 | v1.0 | 6 005  | > 865 500 | 9 | [JawharaFM](http://www.jawharafm.net/ar/) |
 
