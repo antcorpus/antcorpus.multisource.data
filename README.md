@@ -6,7 +6,7 @@ You can find other details on the main website page.
 
 Version details
 ---------------
-> **Current version:** v2.1
+> **Current version:** v2.1 (from Feb. 2018 to Oct. 2018)
 
 | Version  | Articles number | Words number | Number of categories | Source
 | :------: | :-------------: | :---------: | :-------------------: | :-----:|
