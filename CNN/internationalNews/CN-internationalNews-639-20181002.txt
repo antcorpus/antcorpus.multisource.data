@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-639-20181002</DOCNO>
+<URL>http://arabic.cnn.com/world/video/2018/10/02/v66286-indonesia-earthquake</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>من الجو.. شاهد حجم الكارثة التي حلت بإندونيسيا</TITLE>
+<TIME>Tue, 02 Oct 2018 18:35:18 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+أكثر من 1000 شخص لقوا حتفهم في إندونيسيا بسبب زلزال وأمواج تسونامي عاتية.
+</ABSTRACT>
+<TEXT>
+أكثر من 1000 شخص لقوا حتفهم في إندونيسيا بسبب زلزال وأمواج تسونامي عاتية.
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-economy-165-20180812</DOCNO>
+<URL>http://arabic.cnn.com/business/video/2018/08/12/v64274-business-minute-token-blockchain-digital</URL>
+<SRC>CNN</SRC>
+<CAT>economy</CAT>
+<TITLE>ما هو التوكن؟ وما علاقته بالبلوك تشين؟</TITLE>
+<TIME>Sun, 12 Aug 2018 07:47:15 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+خبيرة الأسواق المالية إيمان مطلق تتحدث في هذا الفيديو عن تعريف التوكن وما علاقته بالبلوك تشين وعالم المال الرقمي.
+</ABSTRACT>
+<TEXT>
+خبيرة الأسواق المالية إيمان مطلق تتحدث في هذا الفيديو عن تعريف التوكن وما علاقته بالبلوك تشين وعالم المال الرقمي.
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-626-20180929</DOCNO>
+<URL>http://arabic.cnn.com/world/video/2018/09/29/v66157-indonesia-earthquake-tsunami-palu-orig</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>صراخ وذعر.. لحظة وصول تسونامي مدمر إندونيسيا</TITLE>
+<TIME>Sat, 29 Sep 2018 06:51:09 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+ضربت موجة تسونامي جارفة إندونيسيا بعد وقوع زلزال مدمر بقوة 7.5 درجة على مقياس ريختر في جزيرة سولاويزي .
+</ABSTRACT>
+<TEXT>
+ضربت موجة تسونامي جارفة إندونيسيا بعد وقوع زلزال مدمر بقوة 7.5 درجة على مقياس ريختر في جزيرة سولاويزي .
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-273-20180423</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/04/23/wd-230418-toronto-pedestrians-struck</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>مشاهد أولية بعد دهس شاحنة لمشاة في تورونتو</TITLE>
+<TIME>Mon, 23 Apr 2018 18:27:42 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+مقاطع تظهر المشاهد الأولية التي تبعت دهس شاحنة لمشاة في تورونتو.
+</ABSTRACT>
+<TEXT>
+(CNN)-- فيديو يظهر المشاهد الأولية بعد دهس شاحنة لعدد من المشاة في وسط مدينة تورونتو الكندية.
+</TEXT>
+</DOC>

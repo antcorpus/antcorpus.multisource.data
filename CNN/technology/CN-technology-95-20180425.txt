@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-technology-95-20180425</DOCNO>
+<URL>https://arabic.cnn.com/tech/2018/04/25/tech-250418-gmail-new-features</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>شاهد.. هذه خصائص Gmail الجديدة</TITLE>
+<TIME>Wed, 25 Apr 2018 19:50:14 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+إليك كيف تعمل خصائص Gmail الجديدة من شركة غوغل عبر هذا الفيديو.
+</ABSTRACT>
+<TEXT>
+(CNN)-- تعمد شركة غوغل إلى طرح تحديثات على Gmail، بما في ذلك رسائل يمكنها الاختفاء، وتحذيرات من رسائل البريد الإلكتروني المُريبة، وزر "غفوة". إليك كيف تعمل الخصائص الجديدة عبر هذا الفيديو.
+</TEXT>
+</DOC>

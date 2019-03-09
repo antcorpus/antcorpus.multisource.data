@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-472-20180811</DOCNO>
+<URL>http://arabic.cnn.com/world/video/2018/08/11/v64265-wd-110818-gas-tanker-explodes-highway-italy</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>انفجار هائل لناقلة غاز يقتل 3 أشخاص ويصيب 55 في إيطاليا</TITLE>
+<TIME>Sat, 11 Aug 2018 17:58:13 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+انفجرت شاحنة ناقلة للغاز في مدينة بولونيا، في إيطاليا مما أسفر عن مقتل 3 أشخاص على الأقل وتم إدخال 55 شخصا مصابا إلى المستشفى جراء الانفجار.
+</ABSTRACT>
+<TEXT>
+انفجرت شاحنة ناقلة للغاز في مدينة بولونيا، في إيطاليا مما أسفر عن مقتل 3 أشخاص على الأقل وتم إدخال 55 شخصا مصابا إلى المستشفى جراء الانفجار.
+</TEXT>
+</DOC>

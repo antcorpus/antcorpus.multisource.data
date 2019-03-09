@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO>CN-technology-85-20180416</DOCNO>
+<URL>https://arabic.cnn.com/tech/2018/04/16/tech-160418-nasa-tess-mission</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>هكذا ستبحث "ناسا" عن حياة خارج نظامنا الشمسي</TITLE>
+<TIME>Mon, 16 Apr 2018 19:04:48 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+يتوقع علماء “ناسا” أن تعثر المهمة على آلاف الكواكب الخارجية المحتملة.
+</ABSTRACT>
+<TEXT>
+(CNN)-- تستعد وكالة الفضاء الأميركية "ناسا" لإطلاق قمر اصطناعي، في إطار البحث عن كواكب خارج نظامنا الشمسي، من بينها كواكب قابلة للحياة.
+ 
+</TEXT>
+</DOC>

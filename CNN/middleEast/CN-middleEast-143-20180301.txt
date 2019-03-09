@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-middleEast-143-20180301</DOCNO>
+<URL>https://arabic.cnn.com/middle-east/2018/03/01/me-010318-fighting-ghouta</URL>
+<SRC>CNN</SRC>
+<CAT>middleEast</CAT>
+<TITLE>شاهد.. معارك عند أطراف الغوطة الشرقية</TITLE>
+<TIME>Thu, 01 Mar 2018 13:37:00 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+منذ بدء التصعيد العسكري في الغوطة الشرقية، وثق المرصد السوري لحقوق الإنسان مقتل نحو 590 مدنياً.
+</ABSTRACT>
+<TEXT>
+(CNN)— شهدت أطراف الغوطة الشرقية قرب دمشق اشتباكات بين قوات النظام وفصائل المعارضة السورية رغم بدء سريان الهدنة الروسية القصيرة صباح الأربعاء.
+</TEXT>
+</DOC>

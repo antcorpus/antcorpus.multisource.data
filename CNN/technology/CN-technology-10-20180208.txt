@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-technology-10-20180208</DOCNO>
+<URL>https://arabic.cnn.com/tech/2018/02/08/tech-080218-china-ehang-drone</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>هل يصبح تاكسي المستقبل طائرة بدون طيار؟</TITLE>
+<TIME>Thu, 08 Feb 2018 18:00:30 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+نشرت شركة صينية مقطع فيديو يظهر طائرة بدون طيار يمكنها نقل أشخاص جواً ويمكن التحكم بها عن بعد.
+</ABSTRACT>
+<TEXT>
+نشرت شركة صينية مقطع فيديو يظهر طائرة بدون طيار يمكنها نقل أشخاص جواً ويمكن التحكم بها عن بعد.
+</TEXT>
+</DOC>

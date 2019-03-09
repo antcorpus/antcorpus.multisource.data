@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-156-20180320</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/03/20/wd-200318-cillizza-trump-muella-probe</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد.. ما الذي يجب أن يفعله ترامب لإقالة مولر؟</TITLE>
+<TIME>Tue, 20 Mar 2018 14:35:39 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+فيديو يشرح الخطوات التي قد يتمكن من خلالها ترامب من إقالة مولر.
+</ABSTRACT>
+<TEXT>
+(CNN)-- المحرر في شبكة CNN كريس سيليزا يشرح الخطوات التي سيتعين على الرئيس الأمريكي دونالد ترامب اتخاذها إذا ما أراد طرد المستشار الخاص روبرت مولر، والذي يجري تحقيقاً في التدخل الروسي بالانتخابات الامريكية 2016.
+</TEXT>
+</DOC>

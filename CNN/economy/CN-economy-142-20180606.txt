@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-economy-142-20180606</DOCNO>
+<URL>https://arabic.cnn.com/business/2018/06/06/bs-060618-business-minute-blockchain-energy-techniques</URL>
+<SRC>CNN</SRC>
+<CAT>economy</CAT>
+<TITLE>ما هي تقنيات بلوك تشين المتبّعة لتحسين نظام الطاقة؟</TITLE>
+<TIME>Wed, 06 Jun 2018 08:08:14 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+فيديو يستعرض التقنيات المتبعة لتحسين نظام الطاقة في البلوك تشين.
+</ABSTRACT>
+<TEXT>
+خبيرة الأسواق المالية إيمان مطلق تشرح في هذا الفيديو التقنيات المتبعة لتحسين نظام الطاقة في البلوك تشين.
+</TEXT>
+</DOC>

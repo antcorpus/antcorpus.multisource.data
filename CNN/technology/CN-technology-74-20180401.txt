@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-technology-74-20180401</DOCNO>
+<URL>https://arabic.cnn.com/tech/2018/04/01/tech-010418-new-york-auto-show-porsche-volkswagen-lincoln-kia</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>كيا بـ70 ألف دولار وبيك أب من فولكس فاجن.. إليك أغرب ما برز بمعرض نيويورك للسيارات</TITLE>
+<TIME>Sun, 01 Apr 2018 14:27:15 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+تحاول كيا الدخول في عالم سيارات الرفاهية بإعادة تصميم سيارة K900.
+</ABSTRACT>
+<TEXT>
+(CNN)-- قد تكون سيارة بورشه المفضلة لدى المعجبين، لكن شاحنة بيك أب من فولكس فاجن أو سيارة كيا بسعر 70 ألف دولار قد تفاجئ البعض أيضاً.
+</TEXT>
+</DOC>

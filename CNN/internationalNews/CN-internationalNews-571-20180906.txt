@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-571-20180906</DOCNO>
+<URL>http://arabic.cnn.com/world/video/2018/09/06/v65165-weapons-explainer-t90-tank-russia</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>الدبابة الروسية "تي 90" .. لمن الغلبة في الميدان؟</TITLE>
+<TIME>Thu, 06 Sep 2018 13:41:30 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+"تي 90" هي دبابة قتال رئيسية روسية الصنع من الجيل الثالث واستمد تصميمها من سابقتها "تي 72 بي إم " مع اضافة بعض المواصفات الخاصة بالدبابة "تي 80".
+</ABSTRACT>
+<TEXT>
+"تي 90" هي دبابة قتال رئيسية روسية الصنع من الجيل الثالث واستمد تصميمها من سابقتها "تي 72 بي إم " مع اضافة بعض المواصفات الخاصة بالدبابة "تي 80".
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-611-20180912</DOCNO>
+<URL>http://arabic.cnn.com/world/video/2018/09/12/v65441-hurricane-florence-space-orig-vstan-bdk</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>هكذا يبدو إعصار فلورنس المدمر من الفضاء</TITLE>
+<TIME>Wed, 12 Sep 2018 17:38:17 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+التقطت محطة الفضاء الدولية صوراً مذهلة للإعصار فلورنس الذي اكتسب قوة ليتحول إلى عاصفة من الدرجة الرابعة، فيما سار باتجاه الشاطىء الشرقي للولايات المتحدة.
+</ABSTRACT>
+<TEXT>
+التقطت محطة الفضاء الدولية صوراً مذهلة للإعصار فلورنس الذي اكتسب قوة ليتحول إلى عاصفة من الدرجة الرابعة، فيما سار باتجاه الشاطىء الشرقي للولايات المتحدة.
+</TEXT>
+</DOC>

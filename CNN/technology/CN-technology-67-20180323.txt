@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-technology-67-20180323</DOCNO>
+<URL>https://arabic.cnn.com/tech/2018/03/23/tech-230318-mit-csail-robot-fish-orig</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>صوفي.. روبوت يجوب البحر مع الأسماك!</TITLE>
+<TIME>Fri, 23 Mar 2018 10:47:49 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+صنع الروبوت من مطاط السيليكون والبلاستيك وأجزاء مطبوعة بالتقنية ثلاثية الأبعاد
+</ABSTRACT>
+<TEXT>
+SoFi" روبوت على شكل سمكة ابتكره علماء في معهد ماساتشوستس للتكنولوجيا"
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-middleEast-1317-20180908</DOCNO>
+<URL>http://arabic.cnn.com/middle-east/video/2018/09/08/v65237-cnn-exclusive-iraq-violent-protests-in-basra</URL>
+<SRC>CNN</SRC>
+<CAT>middleEast</CAT>
+<TITLE>مشاهد حصرية لاحتجاجات البصرة</TITLE>
+<TIME>Sat, 08 Sep 2018 09:14:11 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+لاتزال الاحتجاجات في مدينة البصرة العراقية تتواصل منذ أوائل يوليو/تموز.
+</ABSTRACT>
+<TEXT>
+لاتزال الاحتجاجات في مدينة البصرة العراقية تتواصل منذ أوائل يوليو/تموز.
+</TEXT>
+</DOC>

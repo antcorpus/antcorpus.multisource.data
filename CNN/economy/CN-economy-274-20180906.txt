@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-economy-274-20180906</DOCNO>
+<URL>http://arabic.cnn.com/business/video/2018/09/06/v65147-bs-060918-business-minute-stellar-digital-currency-protocol</URL>
+<SRC>CNN</SRC>
+<CAT>economy</CAT>
+<TITLE>تعرفوا إلى منصة Stellar المتخصصة في صرف العملات والأصول</TITLE>
+<TIME>Thu, 06 Sep 2018 05:45:45 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+تتحدث إيمان مطلق، الرئيس التنفيذي لمجموعة شركات “إنجوت“، في هذا الفيديو عن منصة Stellar، المتخصصة في توفير خدمات مالية منخفضة التكاليف للأفراد حول العالم.
+</ABSTRACT>
+<TEXT>
+تتحدث إيمان مطلق، الرئيس التنفيذي لمجموعة شركات “إنجوت“، في هذا الفيديو عن منصة Stellar، المتخصصة في توفير خدمات مالية منخفضة التكاليف للأفراد حول العالم.
+</TEXT>
+</DOC>

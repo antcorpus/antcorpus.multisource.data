@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-technology-169-20180922</DOCNO>
+<URL>https://arabic.cnn.com/tech/video/2018/09/22/v65891-amazon-alexa-microwave</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>بفضل أمازون.. يمكنك الآن التحدث مع الميكرويف</TITLE>
+<TIME>Sat, 22 Sep 2018 14:15:47 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+يمكنك الآن التحدث مع المايكرويف، وذلك بفضل الزر الذي أضافته أمازون إلى أكثر أفران الميكرويف الخاصة بها شهرة، أمازون بيزيكس.
+</ABSTRACT>
+<TEXT>
+يمكنك الآن التحدث مع المايكرويف، وذلك بفضل الزر الذي أضافته أمازون إلى أكثر أفران الميكرويف الخاصة بها شهرة، أمازون بيزيكس.
+</TEXT>
+</DOC>

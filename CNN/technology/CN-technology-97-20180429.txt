@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-technology-97-20180429</DOCNO>
+<URL>https://arabic.cnn.com/tech/2018/04/29/tech-290418-amazon-key-package-car-delivery</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>شاهد.. أمازون توصل الطرود إلى صندوق سيارتك!</TITLE>
+<TIME>Sun, 29 Apr 2018 15:16:36 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+الخدمة متوفرة في 37 مدينة أمريكية فقط حتى الآن.
+</ABSTRACT>
+<TEXT>
+(CNN)-- يستطيع المتسوقون من أمازون الآن توصيل الطرود إلى صناديق سياراتهم باستخدام تطبيق Amazon Key، لكن الخدمة متوفرة في 37 مدينة أمريكية فقط حتى الآن.
+</TEXT>
+</DOC>

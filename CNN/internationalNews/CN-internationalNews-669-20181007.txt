@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-669-20181007</DOCNO>
+<URL>https://arabic.cnn.com/world/video/2018/10/08/v66460-20-dead-wedding-limo-new-york</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>مقتل 20 شخصا في حادث سيارة ليموزين في نيويورك</TITLE>
+<TIME>Sun, 07 Oct 2018 20:15:45 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+مقتل 20 شخصًا في حادث سيارة ليموزين في ولاية نيويورك، حسبما ذكرت شرطة الولاية لشبكتنا.
+</ABSTRACT>
+<TEXT>
+مقتل 20 شخصًا في حادث سيارة ليموزين في ولاية نيويورك، حسبما ذكرت شرطة الولاية لشبكتنا.
+</TEXT>
+</DOC>

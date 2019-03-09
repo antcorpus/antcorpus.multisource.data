@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-412-20180529</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/05/29/wd-290518-alberto-bridge-collapse-cuba</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد ماذا حدث لأشخاص على جسر انهار فجأة</TITLE>
+<TIME>Tue, 29 May 2018 16:19:24 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+رجلان كانا يسيران على الجسر لحظة وقوع الحادث بشكل مفاجىء.
+</ABSTRACT>
+<TEXT>
+انهار جسر بشكل مفاجىء فوق أحد الأنهار في كوبا، حيث تدمر بشكل كلي في غضون لحظات بسبب قوة اندفاع مياه النهر نتيجة الأمطار الغزيرة.
+</TEXT>
+</DOC>

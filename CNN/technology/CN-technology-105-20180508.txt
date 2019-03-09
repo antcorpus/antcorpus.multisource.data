@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO>CN-technology-105-20180508</DOCNO>
+<URL>https://arabic.cnn.com/tech/2018/05/08/tech-080518-uber-flying-car-prototype-orig-cnnmoney</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>قريباً.. خدمة نقل جوي من "أوبر"</TITLE>
+<TIME>Tue, 08 May 2018 16:24:55 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+“أوبر” أعلنت لأول مرة عن خططها للخدمة في إبريل 2017
+</ABSTRACT>
+<TEXT>
+(CNN)-- تسعى شركة "أوبر" الى تطوير خدمة نقل جوي بحلول العام 2020، حيث كشفت الشركة عن نموذج "سيارتها الطائرة" في قمة "Uber Elevate" .
+ 
+</TEXT>
+</DOC>

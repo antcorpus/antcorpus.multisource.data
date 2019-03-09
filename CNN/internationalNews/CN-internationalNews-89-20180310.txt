@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-89-20180310</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/03/10/wd-100318-trump-kim-meeting</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>ترامب يقبل لقاء كيم.. هل تكون أهم لحظة بتاريخ البلدين؟</TITLE>
+<TIME>Sat, 10 Mar 2018 09:14:20 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+في لحظة ما كان يبدو أن البلدين على شفا الدخول في حرب، لكن قد يحدث ما يعتبر إنجازاً سياسياً الآن.
+</ABSTRACT>
+<TEXT>
+(CNN)-- وافق الرئيس الأمريكي دونالد ترامب على لقاء زعيم كوريا الشمالية كيم جونغ أون. حدوث هذا الأمر كان لا يصدق قبل فترة وجيزة ولكن ها نحن هنا، فكيف حدث ذلك؟
+</TEXT>
+</DOC>

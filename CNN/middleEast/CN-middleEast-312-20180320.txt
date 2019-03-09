@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-middleEast-312-20180320</DOCNO>
+<URL>https://arabic.cnn.com/middle-east/2018/03/20/me-200318-displaced-ghouta-residents-find-safety-damascus</URL>
+<SRC>CNN</SRC>
+<CAT>middleEast</CAT>
+<TITLE>شاهد.. نازحون من الغوطة الشرقية يجدون الأمان في دمشق</TITLE>
+<TIME>Tue, 20 Mar 2018 09:10:45 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+بإمكان الآلاف من سكان الغوطة الشرقية أخيراً الهروب من الصراع في المناطق التي كانوا فيها.
+</ABSTRACT>
+<TEXT>
+(CNN)— أكثر من 30 ألف سوري فروا بسبب الصراع الذي تشهده الغوطة الشرقية، وهم يحتمون حالياً في أربعة مراكز للاجئين في ريف دمشق بسوريا. وتتوقع منظمات الإغاثة قدوم الآلاف غيرهم في الأيام القادمة.
+</TEXT>
+</DOC>

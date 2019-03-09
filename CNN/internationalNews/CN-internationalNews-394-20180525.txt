@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO>CN-internationalNews-394-20180525</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/05/25/wd-250518-north-korea-tunnels-destruction</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>كاميرا CNN تشهد تدمير موقع نووي في كوريا الشمالية</TITLE>
+<TIME>Fri, 25 May 2018 09:31:56 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+دمرت كوريا الشمالية أحد مواقعها المخصص لإجراء تجارب نووية، وسمح لفريق شبكتنا بمتابعة عمليات التدمير.
+</ABSTRACT>
+<TEXT>
+(CNN)-- دمرت كوريا الشمالية أحد مواقعها المخصص لإجراء تجارب نووية، وسمح لفريق CNN بمتابعة عمليات التدمير.
+ 
+</TEXT>
+</DOC>

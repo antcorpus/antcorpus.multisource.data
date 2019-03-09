@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-technology-113-20180605</DOCNO>
+<URL>https://arabic.cnn.com/tech/2018/06/05/tech-050618-tim-cook-ai-fear</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>حصرياً.. المدير التنفيذي لآبل: لا أخشى سيطرة الآلات على العالم</TITLE>
+<TIME>Tue, 05 Jun 2018 10:39:53 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+قال المدير التنفيذي لشركة آبل بأنه لا يخشى سيطرة الآلات على العالم.
+</ABSTRACT>
+<TEXT>
+(CNN)-- قال المدير التنفيذي لشركة آبل، تيم كوك، في مقابلة مع مذيعة CNNMoney لوري سيغال، بأنه ليس قلقاً من سيطرة الآلات على العالم، وإنما هو قلق من أن يبدأ البشر بالتفكير مثل الآلات.
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-101-20180312</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/03/12/wd-120318-new-york-city-helicopter-accident</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد.. سقوط مروحية بنيويورك ونجاة الطيّار من بين 6 أشخاص</TITLE>
+<TIME>Mon, 12 Mar 2018 09:34:57 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+أُعلنت وفاة راكبَين في الموقع، بينما أُعلنت وفاة 3 آخرين في المستشفى.
+</ABSTRACT>
+<TEXT>
+(CNN)-- سقطت طائرة مروحية في النهر الشرقي لمدينة نيويورك الأمريكية، وكان على متنها 6 أشخاص، بمن فيهم الطيّار. وأُعلنت وفاة راكبَين في الموقع، بينما أُعلنت وفاة 3 آخرين في المستشفى.
+</TEXT>
+</DOC>

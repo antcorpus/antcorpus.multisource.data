@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-technology-15-20180206</DOCNO>
+<URL>https://arabic.cnn.com/tech/2018/02/06/tech-060218-0pyrolance-firefighters-lon-orig-bkcnntech</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>شاهد كيفية اختراق هذا المسدس المائي للإسمنت بثوانٍ</TITLE>
+<TIME>Tue, 06 Feb 2018 12:54:35 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+هذا المسدّس لمكافحة الحرائق يمكنه اختراق الإسمنت والفولاذ وحتى الزجاج المقاوم للرصاص
+</ABSTRACT>
+<TEXT>
+نيويورك، الولايات المتحدة الأمريكية (CNN)-- يمكن لمسدس "PyroLance" المائي اختراق الإسمنت والفولاذ وحتى الزجاج المقاوم للرصاص خلال أقل من دقيقة، لمساعدة الإطفائيين على الدخول إلى المباني المشتعلة.
+</TEXT>
+</DOC>

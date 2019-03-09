@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-205-20180401</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/04/01/wd-010418-san-marcos-man-knocked-out</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد.. شاب يصاب بنزيف في الدماغ ويفقد سمعه بسبب لكمة خارج حانة</TITLE>
+<TIME>Sun, 01 Apr 2018 17:06:53 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+بقي بيتون في وحدة العناية المركزة لمدة 9 أيام بعد تعرضه للضرب.
+</ABSTRACT>
+<TEXT>
+(CNN)-- أصيب شاب بنزيف في الدماغ وصعوبة في الكلام وفقد حاسة السمع في أذنه اليمنى، وذلك بعد أن لكمه شخص آخر على وجهه خارج حانة في مدينة سان ماركوس الأمريكية.
+</TEXT>
+</DOC>

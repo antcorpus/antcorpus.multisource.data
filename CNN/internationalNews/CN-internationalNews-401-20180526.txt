@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-401-20180526</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/05/26/wd-260518-lightning-satellite-noaa-lockheed-martin-orig</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>للمرة الأولى.. شاهد صواعق البرق من الفضاء</TITLE>
+<TIME>Sat, 26 May 2018 07:51:55 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+هذا الرسم المتحرك عالي الدقة يظهر صواعق برق ضربت في 9 مايو/ أيار
+</ABSTRACT>
+<TEXT>
+أرسل القمر الصناعي GOES-17 أول بيانات تصور مخطط صواعق البرق على الأرض
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-middleEast-946-20180516</DOCNO>
+<URL>https://arabic.cnn.com/middle-east/2018/05/16/me-160518-un-mcgoldrick-gaza</URL>
+<SRC>CNN</SRC>
+<CAT>middleEast</CAT>
+<TITLE>منسق الشؤون الانسانية بالأمم المتحدة عن غزة: المسعفون يضحون بأنفسهم لإنقاذ الآخرين</TITLE>
+<TIME>Wed, 16 May 2018 11:18:01 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+جيمي ماكغولدريك يتحدث عن الأمور التي شاهدها أثناء زيارته لمستشفى في غزة.
+</ABSTRACT>
+<TEXT>
+(CNN)-- جزء من مقابلة لشبكة CNN مع منسق الشؤون الانسانية بالأمم المتحدة، جيمي ماكغولدريك، تسلّط الضوء على الأحداث الأخيرة في غزة.
+</TEXT>
+</DOC>

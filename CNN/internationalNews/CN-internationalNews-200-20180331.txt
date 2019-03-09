@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-200-20180331</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/03/31/wd-310318-detroit-man-wrongfully-excused-murder-released</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>هذا الرجل قضى 45 عاماً في السجن لجريمة لم يرتكبها</TITLE>
+<TIME>Sat, 31 Mar 2018 08:05:23 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+فيليبس كان قد حكم عليه بالسجن مدى الحياة عام 1972 بعدما أدين بجريمة قتل
+</ABSTRACT>
+<TEXT>
+(CNN)--أسقط القاضي جميع التهم ضد رجل من ديترويت بعد أن قضى 45 عاماً في السجن بسبب جريمة قتل لم يرتكبها أدين بها قبل عقود.
+</TEXT>
+</DOC>

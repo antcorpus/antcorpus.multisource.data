@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-technology-82-20180412</DOCNO>
+<URL>https://arabic.cnn.com/tech/2018/04/12/tech-120418-nasa-4k-moon-virtual-tour-bks-lon-orig</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>تعالوا في جولة افتراضية على سطح القمر</TITLE>
+<TIME>Thu, 12 Apr 2018 16:02:02 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+الفيديو يظهر التضاريس القمرية ويسلط الضوء على مواقع متعددة.
+</ABSTRACT>
+<TEXT>
+(CNN)-- نشرت وكالة الفضاء الأمريكية "ناسا" مقطع فيديو بدقة "4K" فائقة الوضوح لجولة افتراضية على سطح القمر.
+</TEXT>
+</DOC>

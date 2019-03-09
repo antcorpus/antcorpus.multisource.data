@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO>BB-sport-130-20180426</DOCNO>
+<URL>http://www.bbc.co.uk/arabic/sports-43907398</URL>
+<SRC>BBC</SRC>
+<CAT>sport</CAT>
+<TITLE>تصويت بي بي سي على جائزة أفضل لاعبة كرة قدم</TITLE>
+<TIME>Thu, 26 Apr 2018 20:20:34 GMT</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+تصويت بي بي سي على جائزة أفضل لاعبة كرة قدم
+</ABSTRACT>
+<TEXT>
+سام كير
+لوسي برونز
+جنيفر ماروزان
+ليكي مارتينز
+بيرنيل هاردر
+BBC Women's Footballer of the Year 2018
+</TEXT>
+</DOC>

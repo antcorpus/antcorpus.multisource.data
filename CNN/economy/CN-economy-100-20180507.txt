@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-economy-100-20180507</DOCNO>
+<URL>https://arabic.cnn.com/business/2018/05/07/bs-070518-business-minute-ico-explainer</URL>
+<SRC>CNN</SRC>
+<CAT>economy</CAT>
+<TITLE>ما هو الطرح الأولي للعملات الرقمية وكيف يختلف عن الاكتتاب العام؟</TITLE>
+<TIME>Mon, 07 May 2018 12:44:21 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+فيديو يسلّط الضوء على الطرح الأولي للعملات الرقمية.
+</ABSTRACT>
+<TEXT>
+(CNN)-- خبيرة الأسواق المالية إيمان مطلق تشرح لكم ما هو الطرح الأولي للعملات الرقمية ICO وكيف يختلف عن الاكتتاب العام IPO.
+</TEXT>
+</DOC>

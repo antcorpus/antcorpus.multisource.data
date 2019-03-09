@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-middleEast-560-20180410</DOCNO>
+<URL>https://arabic.cnn.com/middle-east/2018/04/10/me-100418-douma-russian-millitary-police</URL>
+<SRC>CNN</SRC>
+<CAT>middleEast</CAT>
+<TITLE>شاهد.. شرطة روسية في دوما بعد هجوم كيماوي مزعوم</TITLE>
+<TIME>Tue, 10 Apr 2018 14:04:24 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+قال ناشطون إعلاميون، إن أفراداً من الشرطة الروسية عاينوا الموقع المستهدف، ثمّ غادروا المكان.
+</ABSTRACT>
+<TEXT>
+نشر ناشطون سوريون مقطع فيديو يظهر ماقالوا إنه دخول عدد من أفراد الشرطة الروسية مدينة دوما، في ريف دمشق، لمعاينة موقع الهجوم الكيميائي المزعوم الذي أودى بحياة أكثر من 40 شخصاً.
+</TEXT>
+</DOC>

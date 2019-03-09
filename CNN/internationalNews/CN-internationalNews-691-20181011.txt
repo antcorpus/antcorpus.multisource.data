@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-691-20181011</DOCNO>
+<URL>http://arabic.cnn.com/world/video/2018/10/11/v66618-fire-rescue-fresno-california</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>عملية إنقاذ رجل من مبنى محترق بكاميرا رجال الإطفاء</TITLE>
+<TIME>Thu, 11 Oct 2018 18:35:56 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+كان رجال الإطفاء في مدينة فريسنو، بولاية كاليفورنيا الأمريكية يعملون على إطفاء حريق عندما سمعوا صرخة ورأوا يدًا تظهر من داخل هيكل المبنى المحترق.
+</ABSTRACT>
+<TEXT>
+كان رجال الإطفاء في مدينة فريسنو، بولاية كاليفورنيا الأمريكية يعملون على إطفاء حريق عندما سمعوا صرخة ورأوا يدًا تظهر من داخل هيكل المبنى المحترق.
+</TEXT>
+</DOC>

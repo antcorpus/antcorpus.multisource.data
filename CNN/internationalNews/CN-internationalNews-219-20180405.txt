@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-219-20180405</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/04/05/wd-050418-clinton-criticizes-putin-trump-interview</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>كلينتون: أمريكا في موقع سيء وترامب يردد كالببغاء ما يقوله بوتين</TITLE>
+<TIME>Thu, 05 Apr 2018 15:34:52 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+وقالت كلينتون أيضاً إن بوتين ”كاره للنساء من الطراز العالمي” ولن يتوقف عن الدفع بقوة
+</ABSTRACT>
+<TEXT>
+(CNN)-- انتقدت هيلاري كلينتون الرئيس الأمريكي، دونالد ترامب وعلاقته مع روسيا خلال حلقة نقاش، تجمع فيها المئات من الفتيات في “The Wing”، وهو نادٍ للإناث فقط.
+</TEXT>
+</DOC>

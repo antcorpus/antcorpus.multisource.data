@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-technology-109-20180515</DOCNO>
+<URL>https://arabic.cnn.com/tech/2018/05/15/tech-150518-tesla-tows-plane-cnnmoney-orig</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>شاهد.. سيارة "تيسلا" تجر طائرة عملاقة</TITLE>
+<TIME>Tue, 15 May 2018 16:18:41 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+في عام 2016 أقيم سباق بين طائرة تابعة لـ "كانتاس" وسيارة "تيسلا" .
+</ABSTRACT>
+<TEXT>
+(CNN)-- لاتزال شركة تيسلا تبهر عشاقها بقدرات سياراتها الكهربائية يوماً بعد يوم، إذ حطمت سيارة “تيسلا موديل X” رقماً قياسياً جديداً بموسوعة غينيس في عملية جر كهربائية حيث سحبت طائرة بوينغ 787 يزيد وزنها عن 130 طن.
+</TEXT>
+</DOC>

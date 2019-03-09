@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-technology-104-20180504</DOCNO>
+<URL>https://arabic.cnn.com/tech/2018/05/04/tech-040518-ford-smart-window-blind-view-tech</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>شاهد.. نافذة ذكية تتيح للمكفوفين الرؤية</TITLE>
+<TIME>Fri, 04 May 2018 10:15:25 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+طورت شركة فورد الأمريكية تقنية جديدة بهدف مساعدة راكبي سيارات الشركة من المكفوفين على الشعور بالمنظر الخارجي.
+</ABSTRACT>
+<TEXT>
+(CNN)-- طورت شركة فورد الأمريكية تقنية جديدة تعرف بإسم Feel The View بهدف مساعدة راكبي سيارات الشركة من المكفوفين على الشعور بالمنظر الخارجي.
+</TEXT>
+</DOC>

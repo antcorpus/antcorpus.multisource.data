@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-221-20180406</DOCNO>
+<URL>https://arabic.cnn.com/entertainment/2018/04/06/wd-060418-india-salman-khan-jailed</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>غزال يدخل الممثل الهندي سلمان خان السجن</TITLE>
+<TIME>Fri, 06 Apr 2018 05:33:13 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+القضاة أصدروا حكماً بالحبس لخمسة أعوام على نجم بوليوود وفرض غرامة بقيمة 150 دولاراً.
+</ABSTRACT>
+<TEXT>
+(CNN(-- قضت محكمة في الهند بحبس نجم بوليوود الشهير، سلمان خان، لخمسة أعوام على خلفية صيد حيوانات.
+</TEXT>
+</DOC>

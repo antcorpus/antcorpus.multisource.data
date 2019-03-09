@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-72-20180307</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/03/07/fp-070318-freedom-project-mission</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>مشروع CNN للحرية: هذه مهمتنا</TITLE>
+<TIME>Wed, 07 Mar 2018 12:41:20 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+تعرف إلى مهمة مشروع شبكتنا للحرية.
+</ABSTRACT>
+<TEXT>
+(CNN) -- بين 20 إلى 40 مليون شخص يعيشون العبودية اليوم. لذا قررت CNN أن تقوم بأمر ما، إذ أطلقت مشروعاً طموحاً، اسمه “مشروع CNN للحرية،” عام 2011. إليكم نبذة عنه، وأبرز إنجازاته.
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-middleEast-1312-20180908</DOCNO>
+<URL>http://arabic.cnn.com/middle-east/video/2018/09/08/v65234-basra-water-facility-protest</URL>
+<SRC>CNN</SRC>
+<CAT>middleEast</CAT>
+<TITLE>متظاهرون يقتحمون منشأة روسية في البصرة</TITLE>
+<TIME>Sat, 08 Sep 2018 07:36:04 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+أظهرت مشاهد مصورة حصلت عليها شبكة CNN حشوداً من المتظاهرين في محافظة البصرة وهم يدخلون منشأة لضخ المياه تزود حقل نفط رئيسي تديره شركة لوك أويل الروسية.
+</ABSTRACT>
+<TEXT>
+أظهرت مشاهد مصورة حصلت عليها شبكة CNN حشوداً من المتظاهرين في محافظة البصرة وهم يدخلون منشأة لضخ المياه تزود حقل نفط رئيسي تديره شركة لوك أويل الروسية.
+</TEXT>
+</DOC>

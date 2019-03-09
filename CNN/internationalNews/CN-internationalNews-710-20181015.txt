@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-710-20181015</DOCNO>
+<URL>http://arabic.cnn.com/world/video/2018/10/16/v66779-meghan-markle-pregnant</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>الأمير هاري وميغان ينتظران مولودهما الأول</TITLE>
+<TIME>Mon, 15 Oct 2018 21:10:31 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+يترقب دوق ودوقة ساسكس طفلهما الأول، والذي من المقرر أن يولد في ربيع عام 2019
+</ABSTRACT>
+<TEXT>
+يترقب دوق ودوقة ساسكس طفلهما الأول، والذي من المقرر أن يولد في ربيع عام 2019
+</TEXT>
+</DOC>

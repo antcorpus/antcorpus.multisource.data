@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO>CN-technology-110-20180518</DOCNO>
+<URL>https://arabic.cnn.com/tech/2018/05/18/tech-180518-china-unmanned-aerial-vehicle-race</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>شاهد.. طائرات مسيّرة ذكية تتسابق في الصين</TITLE>
+<TIME>Fri, 18 May 2018 08:16:25 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+التحدي تمثل في تحليق الطائرات بلا طيار حول مجموعة من المسارات المنحنية، واجتياز العقبات من خلال سلسلة من البوابات.
+</ABSTRACT>
+<TEXT>
+أذهل سباق للطائرات المسيّرة الحضور خلال فعاليات مؤتمر الذكاء العالمي 2018 الذي أقيم اليوم، الجمعة، في محافظة تيانجين بشمال الصين.
+ 
+</TEXT>
+</DOC>

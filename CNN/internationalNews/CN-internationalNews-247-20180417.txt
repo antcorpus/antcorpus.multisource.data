@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-247-20180417</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/04/17/wd-170418-southwest-plane-emergency-landing</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد.. هبوط اضطراري لطائرة أمريكية انفجر محركها</TITLE>
+<TIME>Tue, 17 Apr 2018 17:31:10 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+هبطت طائرة تابعة لخطوط ساوث ويست الأمريكية بشكل طارىء بعد انفجار محركها.
+</ABSTRACT>
+<TEXT>
+(CNN)-- هبطت طائرة تابعة لخطوط ساوث ويست الأمريكية بشكل طارىء بعد انفجار محركها في مطار بمدينة فلادليفيا بالولايات المتحدة الأمريكية.
+</TEXT>
+</DOC>

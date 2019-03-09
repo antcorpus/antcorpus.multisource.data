@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-technology-12-20180207</DOCNO>
+<URL>https://arabic.cnn.com/tech/2018/02/07/tech-070218-waymo-uber-self-driving-competition</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>في 90 ثانية.. شاهد سيارات "وايمو" و"أوبر" الذكية</TITLE>
+<TIME>Wed, 07 Feb 2018 15:45:45 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+هذه مركبة "وايمو"، سيارة ذاتية القيادة لشركة تمتلكها "ألفابيت"
+</ABSTRACT>
+<TEXT>
+نيويورك، الولايات المتحدة الأمريكية (CNN)-- "وايمو" و"أوبر" تشهدان منافسة عالية في تقنية القيادة الذاتية، واليوم تتواجه الشركتان لاعتلاء المركز الأول.  
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-196-20180329</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/03/29/wd-280318-malala-yousafzai-returned-pakistan</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>ملالا تعود لباكستان لأول مرة منذ محاولة اغتيالها قبل 6 سنوات</TITLE>
+<TIME>Thu, 29 Mar 2018 15:33:34 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+الكثيرون في باكستان ينظرون إلى مالالا كبطلة، ناضلت من أجل حق الفتيات بالتعليم
+</ABSTRACT>
+<TEXT>
+(CNN)-- عادت ملالا يوسفزاي، الحاصلة على جائزة نوبل للسلام، إلى باكستان في أول زيارة لها إلى بلدها الأم منذ محاولة مسلحين من حركة طالبان اغتيالها عام 2012.
+</TEXT>
+</DOC>

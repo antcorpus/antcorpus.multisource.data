@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-technology-187-20181019</DOCNO>
+<URL>http://arabic.cnn.com/tech/video/2018/10/19/v66959-magic-leap-mica-avatar</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>تعرف إلى “ميكا” مساعدتك الشخصية في الواقع الافتراضي</TITLE>
+<TIME>Fri, 19 Oct 2018 17:16:56 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+كشفت شركة "ماجيك ليب"، وهي شركة رائدة في مجال الواقع الافتراضي، النقاب عن "ميكا"، مساعدها الذكي للغاية.
+</ABSTRACT>
+<TEXT>
+كشفت شركة "ماجيك ليب"، وهي شركة رائدة في مجال الواقع الافتراضي، النقاب عن "ميكا"، مساعدها الذكي للغاية.
+</TEXT>
+</DOC>

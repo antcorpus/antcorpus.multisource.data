@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-middleEast-397-20180327</DOCNO>
+<URL>https://arabic.cnn.com/middle-east/2018/03/27/me-270318-half-million-children-yemen-dropped-out-school</URL>
+<SRC>CNN</SRC>
+<CAT>middleEast</CAT>
+<TITLE>اليونيسيف: مليونا طفل يمني بانتوا خارج المدرسة</TITLE>
+<TIME>Tue, 27 Mar 2018 16:49:11 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+وفقاً للتقرير، فان هناك أكثر من 2,500 مدرسة باتت خارج الخدمة.
+</ABSTRACT>
+<TEXT>
+قالت منظمة اليونيسيف، اليوم الثلاثاء، إن ما يقرب من نصف مليون طفل يمني تسربوا من المدارس منذ تفاقم الصراع عام 2015 ليصل إجمالي عدد الأطفال خارج المدرسة إلى مليوني طفل.
+</TEXT>
+</DOC>

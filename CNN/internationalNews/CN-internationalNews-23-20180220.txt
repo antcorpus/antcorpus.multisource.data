@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-23-20180220</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/02/20/wd-200218-terra-cotta-warrior-thumb-stolen-abc</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>أمريكي يسرق إصبع تمثال صيني عمره 2000 عام</TITLE>
+<TIME>Tue, 20 Feb 2018 13:52:43 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+السرقة وقعت في متحف فرانكلين في فيلادلفيا، حيث يعرض التمثال.
+</ABSTRACT>
+<TEXT>
+أتلانتا، الولايات المتحدة الأمريكية (CNN)— يواجه أمريكي من ديلاوير تهمة كسر وسرقة إبهام يد أحد تماثيل محاربي "تيرا كوتا"، يقدر عمره بـ2000 عام، أثناء عرضه في متحف فرانكلين بفيلادلفيا.
+</TEXT>
+</DOC>

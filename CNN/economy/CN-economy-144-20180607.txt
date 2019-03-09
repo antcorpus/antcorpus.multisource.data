@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-economy-144-20180607</DOCNO>
+<URL>https://arabic.cnn.com/business/2018/06/07/bs-170518-business-minute-security-token-explainer</URL>
+<SRC>CNN</SRC>
+<CAT>economy</CAT>
+<TITLE>شاهد.. ماذا يعني مصطلح Security Token في عالم العملات الرقمية؟</TITLE>
+<TIME>Thu, 07 Jun 2018 09:13:06 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+شاهد الفيديو لتتعرف على معنى مصطلح Security Token.
+</ABSTRACT>
+<TEXT>
+(CNN)-- خبيرة الأسواق المالية إيمان مطلق تشرح في هذا الفيديو معنى مصطلح Security Token في عالم العملات الرقمية.
+</TEXT>
+</DOC>

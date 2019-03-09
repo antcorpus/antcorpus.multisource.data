@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-237-20180411</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/04/11/wd-110418-trump-making-people-quit-joke-bama-sotcnn</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>ترامب يمزح حول تعدد الاستقالات في البيت الأبيض</TITLE>
+<TIME>Wed, 11 Apr 2018 15:06:55 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+تحدث الرئيس الأمريكي، دونالد ترامب، مازحاً حول سلسلة الاستقالات الأخيرة
+</ABSTRACT>
+<TEXT>
+تحدث الرئيس الأمريكي، دونالد ترامب، مازحاً حول سلسلة الاستقالات الأخيرة، أثناء استقباله فريق البطولة الوطنية لكرة القدم لعام 2018، ألاباما كريمسون تايد، في البيت الأبيض.
+</TEXT>
+</DOC>

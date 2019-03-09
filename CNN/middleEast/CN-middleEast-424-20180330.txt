@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-middleEast-424-20180330</DOCNO>
+<URL>https://arabic.cnn.com/middle-east/2018/03/30/me-300318-gaza-protest-farmer-killed</URL>
+<SRC>CNN</SRC>
+<CAT>middleEast</CAT>
+<TITLE>مقتل فلسطيني بقذيفة إسرائيلية واصابات قرب السياج الأمني بغزة</TITLE>
+<TIME>Fri, 30 Mar 2018 10:33:14 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+الجيش الإسرائيلي قال إن دبابة تابعة له أطلقت النار خلال الليل على مشتبه بهما اقتربا من السياج الأمني بقطاع غزة.
+</ABSTRACT>
+<TEXT>
+أصيب فلسطينيان خلال مسيرات احتجاجية أطلق عليها اسم “مسيرة العودة الكبرى” على الحدود بين قطاع غزة وإسرائيل، الجمعة.  
+</TEXT>
+</DOC>

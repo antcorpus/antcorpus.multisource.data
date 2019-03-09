@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>BB-internationalNews-214-20180323</DOCNO>
+<URL>http://www.bbc.co.uk/arabic/world-43515877</URL>
+<SRC>BBC</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>أنباء عن "احتجاز رهائن" داخل متجر جنوبي فرنسا</TITLE>
+<TIME>Fri, 23 Mar 2018 11:02:30 GMT</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+أفادت وسائل إعلام فرنسية بأن عددا من الرهائن محتجزين داخل متجر جنوب غربي فرنسا.
+</ABSTRACT>
+<TEXT>
+أنباء عن "احتجاز رهائن" داخل متجر جنوبي فرنسا
+</TEXT>
+</DOC>

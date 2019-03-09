@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-middleEast-945-20180516</DOCNO>
+<URL>https://arabic.cnn.com/middle-east/2018/05/16/me-160518-gaza-protests-unfurled</URL>
+<SRC>CNN</SRC>
+<CAT>middleEast</CAT>
+<TITLE>شاهد.. ما الذي أشعل الاحتجاجات الفلسطينية الأخيرة؟</TITLE>
+<TIME>Wed, 16 May 2018 08:15:44 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+المظاهرات على طول حدود غزة كانت مستمرة منذ اسابيع.
+</ABSTRACT>
+<TEXT>
+(CNN)-- عشرات الفلسطينيين قتلوا في اشتباكات دامية على الحدود بين غزة وإسرائيل في 14 مايو/ أيّار، وعلى بعد 50 ميلاً من العنف احتفل الضيوف بافتتاح السفارة الأمريكية في القدس.
+</TEXT>
+</DOC>

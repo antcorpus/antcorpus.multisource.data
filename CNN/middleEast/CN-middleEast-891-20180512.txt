@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-middleEast-891-20180512</DOCNO>
+<URL>https://arabic.cnn.com/middle-east/2018/05/12/me-120518-iraq-security-polls-open</URL>
+<SRC>CNN</SRC>
+<CAT>middleEast</CAT>
+<TITLE>شاهد.. تشديد أمني مع بدء التصويت بالانتخابات العراقية</TITLE>
+<TIME>Sat, 12 May 2018 06:14:09 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+يتنافس في الانتخابات حوالي 7 آلاف مرشح، يمثلون 205 كياناً سياسياً، على 329 مقعدًا
+</ABSTRACT>
+<TEXT>
+بدأ العراقيون بالتوافد على مراكز الاقتراع للإدلاء بأصواتهم في أول انتخابات تشريعية بعد إعلان هزيمة تنظيم داعش.
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-economy-111-20180513</DOCNO>
+<URL>https://arabic.cnn.com/business/2018/05/13/bs-070518-business-types-tokens</URL>
+<SRC>CNN</SRC>
+<CAT>economy</CAT>
+<TITLE>ما هي أنواع العملات الرمزية وما هو الفرق بينها؟</TITLE>
+<TIME>Sun, 13 May 2018 17:38:03 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+تعرّف عبر هذا الفيديو على الاستخدامات المختلفة للعملات الرمزية.
+</ABSTRACT>
+<TEXT>
+(CNN)-- خبيرة الأسواق المالية إيمان مطلق توضح في هذا الفيديو أنواع العملات الرمزية والفروقات في استخداماتها.
+</TEXT>
+</DOC>

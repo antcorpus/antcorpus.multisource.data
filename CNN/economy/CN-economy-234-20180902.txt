@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-economy-234-20180902</DOCNO>
+<URL>https://arabic.cnn.com/business/video/2018/09/02/v64974-business-minute-litecoin-bitcoin</URL>
+<SRC>CNN</SRC>
+<CAT>economy</CAT>
+<TITLE>هل تعرفون ما هو الفرق بين "litecoin" و "Bitcoin"؟</TITLE>
+<TIME>Sun, 02 Sep 2018 11:14:22 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+خبيرة الأسواق المالية إيمان مطلق تتحدث في هذا الفيديو عن الفرق بين "litecoin" و "Bitcoin" حيث تتمكن الأولى من إنتاج كتلة بطريقة أسرع مما يعني أن تحويل الأموال يتم بشكل أسرع.
+</ABSTRACT>
+<TEXT>
+خبيرة الأسواق المالية إيمان مطلق تتحدث في هذا الفيديو عن الفرق بين "litecoin" و "Bitcoin" حيث تتمكن الأولى من إنتاج كتلة بطريقة أسرع مما يعني أن تحويل الأموال يتم بشكل أسرع.
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-380-20180522</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/05/22/wd-220518-steamboat-geyser-yellowstone-national-park-erupting</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد انفجار نبع حار في أحد المنتزهات الأمريكية</TITLE>
+<TIME>Tue, 22 May 2018 18:34:10 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+يشهد نبع "قارب البخار" الحار في منتزه “يلو ستون” حالة فوران غير مسبوقة
+</ABSTRACT>
+<TEXT>
+(CNN)-- يشهد نبع "قارب البخار" الحار في منتزه “يلو ستون” حالة فوران غير مسبوقة، فالانفجار الأخير وقع في 19 مايو/أيار، وهو السادس هذا العام. شاهدوا بعض الصور لفوران هذا النبع الحار.
+</TEXT>
+</DOC>

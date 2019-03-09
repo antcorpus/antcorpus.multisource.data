@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO>CN-middleEast-602-20180413</DOCNO>
+<URL>https://arabic.cnn.com/middle-east/2018/04/13/me-130418-gaza-protest</URL>
+<SRC>CNN</SRC>
+<CAT>middleEast</CAT>
+<TITLE>تواصل المواجهات بين الفلسطينيين والإسرائيليين على حدود غزة</TITLE>
+<TIME>Fri, 13 Apr 2018 17:57:48 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+تواصلت الاحتجاجات على طول هذه الحدود بين قطاع غزة وإسرائيل.
+</ABSTRACT>
+<TEXT>
+(CNN)-- تواصلت الاحتجاجات على طول هذه الحدود بين قطاع غزة وإسرائيل، إذ أحرق المحتجون الفلسطينيون إطارات السيارات لمحاولة حجب الرؤية عن قناصة الجيش الإسرائيلي.
+ 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-economy-114-20180515</DOCNO>
+<URL>https://arabic.cnn.com/business/2018/05/15/bs-150518-business-how-tokens-are-used</URL>
+<SRC>CNN</SRC>
+<CAT>economy</CAT>
+<TITLE>كيف تستخدم الشركات أموال المشاريع الخاصة بها و"التوكن"؟</TITLE>
+<TIME>Tue, 15 May 2018 06:15:06 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+فيديو يوضّح طريقة استخدام الشركات لأموال المشاريع و"التوكن."
+</ABSTRACT>
+<TEXT>
+(CNN)-- خبيرة الأسواق المالية إيمان مطلق توضح في هذا الفيديو طريقة استخدام الشركات لأموال المشاريع إضافة إلى استخداماتها للعملات الرمزية "التوكن."
+</TEXT>
+</DOC>

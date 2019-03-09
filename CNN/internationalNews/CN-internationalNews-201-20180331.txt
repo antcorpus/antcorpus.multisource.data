@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-201-20180331</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/03/31/wd-310318-malala-arriving-swat</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>هكذا استقبلت ملالا في مسقط رأسها بعد 6 سنوات</TITLE>
+<TIME>Sat, 31 Mar 2018 09:32:46 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+ملالا كانت قد أصيبت في رأسها بعد اطلاق عناصر من حركة طالبان النار عليها.
+</ABSTRACT>
+<TEXT>
+(CNN)--وصلت ملالا يوسفزاي الحائزة على جائزة نوبل للسلام، السبت إلى وادي سوات في أول زيارة تقوم بها لمسقط رأسها في شمال غرب باكستان منذ الاعتداء الوحشي الذي كاد يودي بحياتها عام 2012.
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO>CN-middleEast-482-20180404</DOCNO>
+<URL>https://arabic.cnn.com/middle-east/2018/04/04/me-040418-syria-displaced-ghouta</URL>
+<SRC>CNN</SRC>
+<CAT>middleEast</CAT>
+<TITLE>نازحو الغوطة في دمشق.. وقصص مروعة عن الحرب</TITLE>
+<TIME>Wed, 04 Apr 2018 16:21:50 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+يصف أحمد البالغ من العمر 8 سنوات القتال الذي عايشه.
+</ABSTRACT>
+<TEXT>
+(CNN)-- بعد الفرار من العنف في ضواحي دمشق الشرقية، بالنسبة لهؤلاء الأطفال، فإن الحصول على قصة شعر هو أمر جديد يشغلهم عن العالم الصادم الذي خرجوا منه للتو ...
+ 
+</TEXT>
+</DOC>

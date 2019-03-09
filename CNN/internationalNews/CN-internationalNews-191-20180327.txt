@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-191-20180327</DOCNO>
+<URL>https://arabic.cnn.com/entertainment/2018/03/27/ent-270318-pakistan-first-transgender-news-anchor</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد.. أول ظهور لمذيعة أخبار متحولة جنسيا في باكستان</TITLE>
+<TIME>Tue, 27 Mar 2018 18:25:01 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+مارفيا مالك، ظهرت لأول مرة على محطة "كوهنور" الإخبارية.
+</ABSTRACT>
+<TEXT>
+(CNN)--ظهرت مارفيا مالك، أول مذيعة أخبار باكستانية متحولة جنسياً على محطة "كوهنور" الإخبارية المحلية.
+</TEXT>
+</DOC>

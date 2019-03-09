@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-economy-104-20180509</DOCNO>
+<URL>https://arabic.cnn.com/business/2018/05/09/bs-070518-business-minute-hard-and-soft-cap-explainer</URL>
+<SRC>CNN</SRC>
+<CAT>economy</CAT>
+<TITLE>ما هو الفرق بين تمويل "الهارد كاب" و"السوفت كاب"؟</TITLE>
+<TIME>Wed, 09 May 2018 13:04:32 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+تعرف على الفرق بين تمويل "الهارد كاب" و"السوفت كاب" في مشاريع العملات الرقمية.
+</ABSTRACT>
+<TEXT>
+(CNN)-- خبيرة الأسواق المالية إيمان مطلق تشرح الفرق بين تمويل "الهارد كاب" و"السوفت كاب" في مشاريع العملات الرقمية ICO.
+</TEXT>
+</DOC>

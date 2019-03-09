@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-111-20180313</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/03/13/wd-130318-bus-crash-alabama</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد.. انقلاب حافلة مدرسية وسقوطها في وادي بألاباما</TITLE>
+<TIME>Tue, 13 Mar 2018 16:49:08 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+الحافلة كانت تنقل طلاباً من منطقة هيوستين، حينما تحطمّت على الطريق السريع وسقطت فى الوادي.
+</ABSTRACT>
+<TEXT>
+(CNN)— لقي شخص على الأقل، مصرعه وأصيب أخرون، إثر سقوط حافلة تقل عدداً من الطلاب بوادِ يبلغ ارتفاعه 15 متراً بولاية ألاباما الأمريكية.
+</TEXT>
+</DOC>

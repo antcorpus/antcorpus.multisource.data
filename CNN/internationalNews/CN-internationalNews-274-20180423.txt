@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-274-20180423</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/04/23/wd-230418-macron-jba-speech</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد.. هذا ما قاله ماكرون في “زيارة مهمة” للقاء ترامب</TITLE>
+<TIME>Mon, 23 Apr 2018 18:18:39 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+ماكرون قال إن “الزيارة مهمة نظراً لبيئتنا الحالية" أثناء خطاب ألقاه في قاعدة أندروز الجوية.
+</ABSTRACT>
+<TEXT>
+(CNN)-- تحدث الرئيس الفرنسي إيمانويل ماكرون لفترة وجيزة في نهاية احتفال استقباله بقاعدة أندروز الجوية، حيث قال إن “الزيارة مهمة نظراً لبيئتنا الحالية.”
+</TEXT>
+</DOC>

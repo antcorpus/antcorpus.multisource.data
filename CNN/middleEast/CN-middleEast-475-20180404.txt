@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-middleEast-475-20180404</DOCNO>
+<URL>https://arabic.cnn.com/middle-east/2018/04/04/me-040418-idf-palestinian-shot-and-killed</URL>
+<SRC>CNN</SRC>
+<CAT>middleEast</CAT>
+<TITLE>شاهد.. الجيش الإسرائيلي يؤكد مقتل فلسطيني بغزة</TITLE>
+<TIME>Wed, 04 Apr 2018 07:53:10 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+أكد متحدث باسم الجيش أن أحد الرجال الذين عبروا السور في شريط الفيديو قد قتل بالرصاص.
+</ABSTRACT>
+<TEXT>
+(CNN)-- أفاد متحدث باسم جيش الدفاع الإسرائيلي أن الفلسطيني الذي حاول عبور السياج الحدودي بين غزة وإسرائيل قُتل بالرصاص على أيدي قوات الدفاع الإسرائيلية، الثلاثاء.
+</TEXT>
+</DOC>

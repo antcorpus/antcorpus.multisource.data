@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-159-20180320</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/03/20/wd-200318-john-dean-donald-trump-and-nixon</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>مستشار سابق بالبيت الأبيض لـCNN: ترامب يعرقل العدالة علانية</TITLE>
+<TIME>Tue, 20 Mar 2018 14:59:06 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+قال جون دين إن الرئيس دونالد ترامب شارك في "عرقلة علنية للعدالة".
+</ABSTRACT>
+<TEXT>
+(CNN)-- قال جون دين، الذي عمل سابقاً مستشارًا في البيت الأبيض للرئيس الأمريكي الأسبق ريتشارد نيكسون خلال قضية "ووترغيت"، إن الرئيس دونالد ترامب شارك في "عرقلة علنية للعدالة".
+</TEXT>
+</DOC>

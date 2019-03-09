@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-technology-108-20180512</DOCNO>
+<URL>https://arabic.cnn.com/tech/2018/05/12/tech-120518-atlas-spotmini-boston-dynamics-robots-run-navigate-cnnmoney-orig</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>شاهد.. روبوت يقلد البشر وآخر ينافس الكلاب</TITLE>
+<TIME>Sat, 12 May 2018 07:23:50 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+الشركة نشرت فيديو جديد لاثنين من روبوتاتها، "أطلس" و"سبوت ميني"
+</ABSTRACT>
+<TEXT>
+(CNN)-- ما زالت شركة بوسطن ديناميكس المختصة في تطوير الروبوتات تبهرنا بابتكاراتها  يوماً بعد يوم، حيث نشرت مؤخراً فيديو جديد لاثنين من روبوتاتها التي تحوي ميزات مذهلة، هما "أطلس" و"سبوت ميني" .
+</TEXT>
+</DOC>

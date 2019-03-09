@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-353-20180515</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/05/15/wd-150815-new-china-aircraft-carrier</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>خطوة تاريخية.. الصين تبدأ اختبار أول حاملة طائرات محلية الصنع بشكل كامل</TITLE>
+<TIME>Tue, 15 May 2018 08:53:20 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+السفينة تعتبر أول ناقلة طائرات محلية الصنع بشكل كامل، وثاني حاملة طائرات للصين.
+</ABSTRACT>
+<TEXT>
+(CNN)-- بدأت الصين باختبار أول ناقلة طائرات محلية الصنع بشكل كامل، وثاني حاملة طائرات لها، وهي خطوة تاريخية في مهمة البلاد لبناء أسطول بحري "عالمي المستوى".
+</TEXT>
+</DOC>

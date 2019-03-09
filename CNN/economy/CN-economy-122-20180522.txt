@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-economy-122-20180522</DOCNO>
+<URL>https://arabic.cnn.com/business/2018/05/22/bs-220518-business-minute-proof-work-explainer</URL>
+<SRC>CNN</SRC>
+<CAT>economy</CAT>
+<TITLE>ما هي تقنية "إثبات العمل" في مجال العملات الرقمية؟</TITLE>
+<TIME>Tue, 22 May 2018 06:38:39 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+فيديو يشرح تقنية "إثبات العمل" في مجال العملات الرقمية.
+</ABSTRACT>
+<TEXT>
+خبيرة الأسواق المالية إيمان مطلق تشرح في هذا الفيديو تقنية "إثبات العمل" وكيف تُستخدم للتحقق من موثوقية البلوك تشين.
+</TEXT>
+</DOC>

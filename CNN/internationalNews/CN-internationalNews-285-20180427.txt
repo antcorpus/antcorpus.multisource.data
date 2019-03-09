@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-285-20180427</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/04/27/wd-270418-korea-kim-moon-handshake</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد.. لحظة لقاء كيم جونغ أون برئيس كوريا الجنوبية</TITLE>
+<TIME>Fri, 27 Apr 2018 05:24:15 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+كيم ومون تصافحا بالأيدي ثم عبرا الحدود إلى كوريا الشمالية لفترة وجيزة.
+</ABSTRACT>
+<TEXT>
+(CNN)-- عبر زعيم كوريا الشمالية كيم جونغ أون الحدود إلى كوريا الجنوبية للمرة الأولى، حيث كان في استقباله الرئيس الكوري الجنوبي مون جيه إن
+</TEXT>
+</DOC>

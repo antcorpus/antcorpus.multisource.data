@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO>CN-internationalNews-306-20180502</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/05/02/wd-020518-us-c130-crash</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد.. اللحظات الأولى لتحطم طائرة عسكرية أمريكية</TITLE>
+<TIME>Wed, 02 May 2018 18:50:32 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+وتحطمت الطائرة وهي من طراز C-130 بالقرب من مطار سافانا هيلتون هيد الدولي، وفقاً للمتحدث باسم المطار.
+</ABSTRACT>
+<TEXT>
+(CNN)-- أعلن مسؤولون في مطار بمدينة سافانا عن تحطم طائرة نقل عسكرية أمريكية في ولاية جورجيا، اليوم الأربعاء.
+ 
+ 
+</TEXT>
+</DOC>

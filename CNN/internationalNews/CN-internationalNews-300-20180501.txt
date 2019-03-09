@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-300-20180501</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/05/01/wd-010518-fire-sao-paulo-brazil-sje-lon-orig</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد.. لحظة انهيار مبنى التهمته النيران بالبرازيل</TITLE>
+<TIME>Tue, 01 May 2018 15:09:39 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+حريق هائل اندلع في مبنى بمدينة ساو باولو البرازيلية.
+</ABSTRACT>
+<TEXT>
+(CNN)-- انهار مبنى في مدينة ساو باولو البرازيلية خلال محاولة رجال الإطفاء السيطرة على حريق نشب داخله.
+</TEXT>
+</DOC>

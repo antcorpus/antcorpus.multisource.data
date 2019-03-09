@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-economy-140-20180605</DOCNO>
+<URL>https://arabic.cnn.com/business/2018/06/05/bs-050618-business-minute-hash-rate-explainer</URL>
+<SRC>CNN</SRC>
+<CAT>economy</CAT>
+<TITLE>ماذا يعني مصطلح "معدل الهاش" في عالم العملات الرقمية؟</TITLE>
+<TIME>Tue, 05 Jun 2018 09:40:12 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+معدّل الهاش هي وحدة لقياس الطاقة التي تستهلكها شبكة بيتكوين.
+</ABSTRACT>
+<TEXT>
+(CNN)-- خبيرة الأسواق المالية إيمان مطلق تشرح في هذا الفيديو مطلح الـ Hash Rate أو معدّل الهاش، وهي وحدة لقياس الطاقة التي تستهلكها شبكة بيتكوين لتعمل بشكر مستمر.
+</TEXT>
+</DOC>

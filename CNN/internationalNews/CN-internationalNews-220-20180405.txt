@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-220-20180405</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/04/05/wd-050418-japan-volcano-eruption</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد.. لحظة ثوران بركان في اليابان</TITLE>
+<TIME>Thu, 05 Apr 2018 13:41:50 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+البركان ثار في جبل شينموي بين مقاطعتي كاجوشيما وميازاكي.
+</ABSTRACT>
+<TEXT>
+(CNN)-- ثار بركان في اليابان وقذف حمماً وأعمدة كثيفة من الرماد على ارتفاع آلاف الأمتار.  
+</TEXT>
+</DOC>

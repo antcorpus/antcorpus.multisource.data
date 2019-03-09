@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-technology-177-20181010</DOCNO>
+<URL>http://arabic.cnn.com/tech/video/2018/10/10/v66545-rick-osterloh-google-pixel-3</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>شاهد بيكسل 3 من غوغل وهو يجيب المكالمات نيابة عنك</TITLE>
+<TIME>Wed, 10 Oct 2018 06:42:43 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+في مقابلة حصرية، يشرح نائب رئيس الأجهزة في شركة غوغل، ريك أوسترلو، الميّزات الجديدة في هاتف بيكسل 3.
+</ABSTRACT>
+<TEXT>
+في مقابلة حصرية، يشرح نائب رئيس الأجهزة في شركة غوغل، ريك أوسترلو، الميّزات الجديدة في هاتف بيكسل 3.
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-363-20180519</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/05/19/wd-190518-havana-plane-crashcnn</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد.. اللحظات الأولى لتحطم طائرة ركاب في كوبا</TITLE>
+<TIME>Sat, 19 May 2018 07:31:02 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+هذا الفيديو يظهر تصاعد الدخان من موقع تحطم طائرة ركاب قرب مطار هافانا في كوبا.
+</ABSTRACT>
+<TEXT>
+(CNN)-- تحطمت طائرة ركاب من طراز بوينغ 737 تقلّ 104 أشخاص بعيد إقلاعها من مطار هافانا، متجهة إلى مدينة هولغوين الكوبية.
+</TEXT>
+</DOC>

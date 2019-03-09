@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-technology-89-20180419</DOCNO>
+<URL>https://arabic.cnn.com/tech/2018/04/19/tech-190418-meltant-robot</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>شاهد.. هذا الروبوت يمكنه تقليد حركة يدك دون تأخير!</TITLE>
+<TIME>Thu, 19 Apr 2018 07:56:22 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+هذا الروبوت يمكنه نسخ وتقليد الحركات البشرية بفترة زمنية قصيرة جدًا.
+</ABSTRACT>
+<TEXT>
+نيويورك، الولايات المتحدة الأمريكية (CNN)-- هذا الروبوت الذي صنعته الشركة الروبوتية اليابانية Meltin يمكنه نسخ وتقليد الحركات البشرية بفترة زمنية قصيرة جدًا.
+</TEXT>
+</DOC>

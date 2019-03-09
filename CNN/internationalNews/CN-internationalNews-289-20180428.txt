@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-289-20180428</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/04/28/wd-280418-kayaker-rescued-fro-river</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد ماحدث خلال بث مباشر حول فيضانات بأمريكا!</TITLE>
+<TIME>Sat, 28 Apr 2018 08:27:34 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+تمكن رجال الانقاذ من سحب أحد هواة ركوب قوارب الكاياك علق في نهر فرو.
+</ABSTRACT>
+<TEXT>
+(CNN)-- خلال تغطية مباشرة على الهواء حول فيضانات ضربت ولاية كارولينا الشمالية، حدث أمر غير متوقع إذ التقطت الكاميرا لحظة انقاذ رياضي حاصره الحطام في مياه نهر هائج.
+</TEXT>
+</DOC>

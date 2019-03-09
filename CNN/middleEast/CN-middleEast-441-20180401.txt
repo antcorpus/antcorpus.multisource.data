@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-middleEast-441-20180401</DOCNO>
+<URL>https://arabic.cnn.com/middle-east/2018/04/01/me-010418-gaza-march-return</URL>
+<SRC>CNN</SRC>
+<CAT>middleEast</CAT>
+<TITLE>دماء ودموع.. قيمة “الأرض” بالنسبة للفلسطينيين</TITLE>
+<TIME>Sun, 01 Apr 2018 07:55:08 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+أكبر مظاهرة تشهدها غزة في سنوات، تُقابل بالعنف... وهذا هو اليوم الأول فقط.
+</ABSTRACT>
+<TEXT>
+(CNN) -- اتجه عشرات الآلاف من سكان غزة للحدود للتظاهر حول العلم الفلسطيني، مطالبين بالعودة إلى أراضيهم التي فقدوها في حرب عام 1948. عدد القتلى يزداد… وأكثر من ألف جريح.
+</TEXT>
+</DOC>

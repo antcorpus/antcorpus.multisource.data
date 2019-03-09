@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-technology-34-20180227</DOCNO>
+<URL>https://arabic.cnn.com/style/2018/02/27/st-270218-dolce-gabbana-milan-fashion-week-drones</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>عارضات أزياء المستقبل.. لا مرئيات؟</TITLE>
+<TIME>Tue, 27 Feb 2018 13:20:19 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+دولتشي آند غابانا تستخدم “عارضات” أزياء من نوع جديد.
+</ABSTRACT>
+<TEXT>
+(CNN) -- سافرت دولتشي آند غابانا بـ”عارضات” جدد من أجل أسبوع ميلانو للموضة، وسرق سرب من الطائرات بدون طيار الأنظار يوم الأحد.
+</TEXT>
+</DOC>

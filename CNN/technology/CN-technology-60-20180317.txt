@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-technology-60-20180317</DOCNO>
+<URL>https://arabic.cnn.com/tech/2018/03/17/tech-170318-supercars-geneva-motor-show-techrules-zenvo-koenigsegg-pininfarina</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>شاهد.. 5 سيارات خارقة جديدة قد لم تسمع بها سابقاً</TITLE>
+<TIME>Sat, 17 Mar 2018 13:57:02 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+فيديو يستعرض أكثر السيارات جذباً للاهتمام في معرض جنيف للسيارات 2018.
+</ABSTRACT>
+<TEXT>
+(CNN)-- لقد سمع الجميع عن أسماء مثل فيراري ولامبورغيني وبورشه، لكن هذه الشركات الصغيرة المصنّعة للسيارات الخارقة كانت من أكثر السيارات جذباً للاهتمام في معرض جنيف للسيارات 2018.
+</TEXT>
+</DOC>

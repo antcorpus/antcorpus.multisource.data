@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-middleEast-1018-20180525</DOCNO>
+<URL>https://arabic.cnn.com/middle-east/2018/05/25/me-250518-oman-cyclone-mekunu</URL>
+<SRC>CNN</SRC>
+<CAT>middleEast</CAT>
+<TITLE>إعصار “مكونو” يضرب سقطرى والإعلان عن 17 مفقودا</TITLE>
+<TIME>Fri, 25 May 2018 07:46:33 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+وأعلن في سلطنة عُمان عن إغلاق مطار صلالة لمدة 24 ساعة بسبب الإعصار.
+</ABSTRACT>
+<TEXT>
+(CNN)-- ضرب إعصار "مكونو" جزيرة سقطرى مساء الأربعاء، فيما أعلنت السلطات المحلية فقدان 17 شخصا.
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-middleEast-320-20180320</DOCNO>
+<URL>https://arabic.cnn.com/middle-east/2018/03/20/me-200318-poll-americans-remain-split-over-iraq-war</URL>
+<SRC>CNN</SRC>
+<CAT>middleEast</CAT>
+<TITLE>بالذكرى الـ15.. هذه آراء الأمريكيين حول غزو العراق</TITLE>
+<TIME>Tue, 20 Mar 2018 19:29:30 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+وجد الاستطلاع الذي أجري في الفترة ما بين 7 إلى 14 مارس/ آذار أن أكثر من نصف الأمريكيين (53 بالمائة) يعتقدون أن الولايات المتحدة فشلت في تحقيق أهدافها في العراق.
+</ABSTRACT>
+<TEXT>
+(CNN)--بعد مرور 15 عاماً، أظهر استطلاع جديد للرأي أجراه مركز "بيو" للاستطلاعات انقساماً في المواقف بين الأمريكيين حول غزو العراق.
+</TEXT>
+</DOC>

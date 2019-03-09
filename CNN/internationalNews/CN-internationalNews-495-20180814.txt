@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-495-20180814</DOCNO>
+<URL>http://arabic.cnn.com/world/video/2018/08/14/v64371-wd-140818-sweden-vandals-burn-80-cars</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>إحراق عشرات السيارات في عدة مدن بالسويد</TITLE>
+<TIME>Tue, 14 Aug 2018 17:58:20 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+قالت الشرطة السويدية إن نحو 80 سيارة أُحرقت، في عدة مناطق في مدينة غوتنبيرغ
+</ABSTRACT>
+<TEXT>
+قالت الشرطة السويدية إن نحو 80 سيارة أُحرقت، في عدة مناطق في مدينة غوتنبيرغ
+</TEXT>
+</DOC>

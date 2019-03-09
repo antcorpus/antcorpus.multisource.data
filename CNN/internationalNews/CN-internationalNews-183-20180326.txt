@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-183-20180326</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/03/26/wd-260318-russia-fire-shopping-mall-kemerovo</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد.. حريق هائل في مركز تسوق بروسيا</TITLE>
+<TIME>Mon, 26 Mar 2018 11:58:24 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+تسبب حريق بمقتل عشرات الأشخاص في مركز تسوق بروسيا في 25 مارس.
+</ABSTRACT>
+<TEXT>
+(CNN) -- قتل ما لا يقل عن 64 شخصاً، الإثنين، في حريق في مركز تسوق بمنطقة سيبيريا في روسيا، وفقاً لما نقلته وكالة الانباء الرسمية "تاس." شاهد لقطات للحريق في الفيديو.
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-15-20180217</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/02/17/wd-170218-mexico-earthquake</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>بالفيديو.. لحظة وقوع زلزال عنيف بالمكسيك</TITLE>
+<TIME>Sat, 17 Feb 2018 05:08:26 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+يظهر الفيديو، آثار الزلزال داخل أحد المباني حيث اهتز بشكل عنيف، الأمر الذي أثار هلع السكان.
+</ABSTRACT>
+<TEXT>
+يظهر هذا الفيديو لحظة وقوع زلزال عنيف بالمكسيك، بلغت قوته 7.5 درجة على مقياس ريختر، وأسفر عن بعض الأضرار المادية فيما لم يسفر عن وقوع ضحايا حتى إعداد هذا التقرير.
+</TEXT>
+</DOC>

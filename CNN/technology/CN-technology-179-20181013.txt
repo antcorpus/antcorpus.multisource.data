@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-technology-179-20181013</DOCNO>
+<URL>http://arabic.cnn.com/tech/video/2018/10/13/v66681-robot-moves-parkour-boston-dynamics</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>روبوت ذكي ينفذ حركات الباركور الخفيفة</TITLE>
+<TIME>Sat, 13 Oct 2018 16:31:58 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+نشرت شركة “Boston Dynamics” مقطع فيديو جديد تعرض فيه أحدث تحركات الروبوت “Atlas”، من ضمنها القدرة على التحرك والانتقال بشكل جانبي وكذلك بشكل عمودي.
+</ABSTRACT>
+<TEXT>
+نشرت شركة “Boston Dynamics” مقطع فيديو جديد تعرض فيه أحدث تحركات الروبوت “Atlas”، من ضمنها القدرة على التحرك والانتقال بشكل جانبي وكذلك بشكل عمودي.
+</TEXT>
+</DOC>

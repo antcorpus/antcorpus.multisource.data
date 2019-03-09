@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-technology-96-20180428</DOCNO>
+<URL>https://arabic.cnn.com/entertainment/2018/04/28/ent-280418-nasa-lagoon-nebula-new-images-lon-orig</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>جولة في جرم فضائي يبعد عنا 4 آلاف سنة ضوئية</TITLE>
+<TIME>Sat, 28 Apr 2018 05:30:21 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+وكالة الفضاء نشرت صوراً جديدة لبحيرة السيدم وهي جرم سماوي يبعد 4 آلاف سنة ضوئية عن الأرض.
+</ABSTRACT>
+<TEXT>
+(CNN)-- عرضت وكالة "ناسا" الفضائية صوراً ومشاهد ، لما التقطه تلسكوب الفضاء العملاق، "هابل" لبحيرة السيدم وهي عبارة عن جرم سماوي يبعد 4 آلاف سنة ضوئية عن الأرض.
+</TEXT>
+</DOC>

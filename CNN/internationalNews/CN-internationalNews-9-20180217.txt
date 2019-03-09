@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-9-20180217</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/02/17/wd-170218-pakistan-zainab-ansari-rape-murder-sentencecnn</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>باكستان: الحكم بإعدام مغتصب وقاتل الطفلة زينب ذات الأعوام السبعة</TITLE>
+<TIME>Sat, 17 Feb 2018 10:47:39 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+بعد وقت قصير من اختفائها رصدت هذه الطفلة على كاميرا مراقبة برفقة رجل وعثر على جثتها بعد أربعة أيام.
+</ABSTRACT>
+<TEXT>
+أصدرت محكمة باكستانية حكماً بالإعدام على عمران علي، البالغ من العمر 24 عاماً، لارتكابه جريمة قتل واغتصاب الطفلة زينب الأنصاري البالغة 7 أعوام، في مطلع يناير الماضي.
+</TEXT>
+</DOC>

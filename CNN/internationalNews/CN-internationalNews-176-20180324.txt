@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-176-20180324</DOCNO>
+<URL>https://arabic.cnn.com/entertainment/2018/03/24/ent-240318-australia-150-whales-beached</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد.. جنوح أكثر من 150حوتا قبالة شاطئ في أستراليا</TITLE>
+<TIME>Sat, 24 Mar 2018 06:04:09 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+صدر تحذير من أسماك القرش بسبب وجود العديد من جيف الحيتان.
+</ABSTRACT>
+<TEXT>
+(CNN)-- بشكل غامض جنح أكثر من 150 حوتا قبالة سواحل غرب أستراليا، مما تسبب في إغلاق أحد الشواطئ وإصدار تحذير من أسماك القرش.
+</TEXT>
+</DOC>

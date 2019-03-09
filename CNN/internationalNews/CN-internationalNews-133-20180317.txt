@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-133-20180317</DOCNO>
+<URL>https://arabic.cnn.com/middle-east/2018/03/17/me-170318-iraq-pave-hawk-helicopter-crash</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>مقتل 7 جنود أمريكيين بتحطم مروحيتهم غرب العراق</TITLE>
+<TIME>Sat, 17 Mar 2018 05:49:11 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+فرق الإنقاذ وصلت الى موقع الحادث في غضون ساعة.
+</ABSTRACT>
+<TEXT>
+(CNN-- قتل سبعة جنود أميركيين عندما تحطمت مروحيتهم غرب العراق، وفق ما أعلن مسؤولون أمريكيون، والمروحية التي تحطمت هي من طراز إتش.إتش-60 بيف هوك.
+</TEXT>
+</DOC>

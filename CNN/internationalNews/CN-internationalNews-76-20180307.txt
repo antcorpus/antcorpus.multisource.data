@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-76-20180307</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/03/07/wd-070318-pakistan-transgender-license</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>باكستان تصدر رخص قيادة بدون تحديد الجنس للمتحولين</TITLE>
+<TIME>Wed, 07 Mar 2018 16:19:22 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+في السابق، كان يتوجب عليهم تسجيل جنسهم إما تحت خانة رجال أو نساء.
+</ABSTRACT>
+<TEXT>
+(CNN)--متحولون جنسياً في باكستان يحصلون على أول رخصة قيادة مركبة مع رمز "X" في خانة جنس السائق.
+</TEXT>
+</DOC>

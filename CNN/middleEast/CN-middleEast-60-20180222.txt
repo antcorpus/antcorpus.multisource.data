@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-middleEast-60-20180222</DOCNO>
+<URL>https://arabic.cnn.com/middle-east/2018/02/22/me-220218-policeman-catches-falling-child</URL>
+<SRC>CNN</SRC>
+<CAT>middleEast</CAT>
+<TITLE>شاهد كيف أنقذ شرطي مصري طفلا سقط من الطابق الثالث! </TITLE>
+<TIME>Thu, 22 Feb 2018 17:04:14 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+رجال الشرطة في أسيوط بمصر، لاحظوا وجود طفل يبلغ من العمر 5 أعوام يتدلى من شرفة شقته
+</ABSTRACT>
+<TEXT>
+(CNN)-- تمكن رجال الشرطة في مصر من إنقاذ حياة طفل عقب سقوطه من شرفة إحدى الشقق السكنية بالطابق الثالث في محافظة أسيوط جنوب القاهرة.  
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-717-20181017</DOCNO>
+<URL>http://arabic.cnn.com/world/video/2018/10/17/v66869-crimea-explosion</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>عشرات القتلى والمصابين جراء تفجير في شبه جزيرة القرم</TITLE>
+<TIME>Wed, 17 Oct 2018 13:35:35 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+أعلنت لجنة مكافحة الإرهاب الروسية أن الانفجار الذي وقع في مدينة كيرتش غربي شبه جزيرة القرم، ناجم عن عبوة ناسفة مجهولة النوع.
+</ABSTRACT>
+<TEXT>
+أعلنت لجنة مكافحة الإرهاب الروسية أن الانفجار الذي وقع في مدينة كيرتش غربي شبه جزيرة القرم، ناجم عن عبوة ناسفة مجهولة النوع.
+</TEXT>
+</DOC>

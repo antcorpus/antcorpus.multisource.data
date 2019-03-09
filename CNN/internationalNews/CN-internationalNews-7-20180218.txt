@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-7-20180218</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/02/18/wd-180218-south-korea-training-ground-assassins</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد.. هذه “فرقة الاغتيال” التي تدربت لقتل كيم جونغ أون</TITLE>
+<TIME>Sun, 18 Feb 2018 08:59:05 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+القصة الوحشة لجزيرة شيلميدو تستّر عليها لعقود، إلى حين عرض فيلم شيلميدو في كوريا في عام 2003.
+</ABSTRACT>
+<TEXT>
+(CNN)-- أعلن جيش كوريا الجنوبية عن إنشاء “وحدة اغتيال“، وذلك بسبب مواجهته لجارة عدائية بقدرات نووية. وفي حالة وقوع حرب، فإن الفرقة الخاصة هي من ستقضي على قادة كوريا الشمالية.
+</TEXT>
+</DOC>

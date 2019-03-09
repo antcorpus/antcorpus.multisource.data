@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-middleEast-1372-20180912</DOCNO>
+<URL>http://arabic.cnn.com/middle-east/video/2018/09/12/v65443-syria-idlib-frontline</URL>
+<SRC>CNN</SRC>
+<CAT>middleEast</CAT>
+<TITLE>كاميرا CNN على خطوط الجبهة الأمامية في إدلب</TITLE>
+<TIME>Wed, 12 Sep 2018 17:54:14 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+هناك ارتفاع في عدد الغارات الجوية على محافظة إدلب من قبل القوات الروسية والجيش السوري.
+</ABSTRACT>
+<TEXT>
+هناك ارتفاع في عدد الغارات الجوية على محافظة إدلب من قبل القوات الروسية والجيش السوري.
+</TEXT>
+</DOC>

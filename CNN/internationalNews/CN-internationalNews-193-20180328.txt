@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-193-20180328</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/03/28/wd-280318-kim-jong-un-north-korea-china-visit</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد.. كيم جونغ أون بزيارة مفاجئة للصين</TITLE>
+<TIME>Wed, 28 Mar 2018 08:58:33 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+هذه أول زيارة خارجية للزعيم الكوري الشمالي كيم جونغ أون منذ توليه الحكم عام 2011.
+</ABSTRACT>
+<TEXT>
+أتلانتا، الولايات المتحدة الأمريكية (CNN)-- الزعيم الكوري الشمالي، كيم جونغ أون، التقى بالرئيس الصيني شي جينبينغ، الثلاثاء، بزيارة مفاجئة لأون إلى بكين.
+</TEXT>
+</DOC>

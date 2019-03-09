@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-technology-1-20180217</DOCNO>
+<URL>https://arabic.cnn.com/tech/2018/02/17/tech-170218-smart-leak-detection-homeowners-buoy-phyn-devices</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>"بوي".. حارس مياه منزلك الشخصي</TITLE>
+<TIME>Sat, 17 Feb 2018 07:38:53 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+نظاما “بوي” و“فين” سيكلفانك أكثر من 800 دولار وذلك لا يشمل التركيب
+</ABSTRACT>
+<TEXT>
+في المنزل الذكي لا توجد هنالك الكثير من الأمور التي لا يمكنك التحكم بها، ولكن إذا أردت معرفة كمية المياه التي تستخدمها قبل وصول فاتورتك، فلن تتوفر العديد من الخيارات.
+</TEXT>
+</DOC>

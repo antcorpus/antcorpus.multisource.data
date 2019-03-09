@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-594-20180910</DOCNO>
+<URL>http://arabic.cnn.com/world/video/2018/09/10/v65340-gas-line-explosion-pennsylvania</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>انفجار ضخم لخط أنابيب غاز يضيء سماء بنسلفانيا</TITLE>
+<TIME>Mon, 10 Sep 2018 18:19:02 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+استيقظ سكان ولاية بنسلفانيا الأمريكية على لون سماء برتقالية ساطعة بعد انفجار خط الغاز الرئيسي في الـ10 من شهر سبتمبر/أيلول.
+</ABSTRACT>
+<TEXT>
+استيقظ سكان ولاية بنسلفانيا الأمريكية على لون سماء برتقالية ساطعة بعد انفجار خط الغاز الرئيسي في الـ10 من شهر سبتمبر/أيلول.
+</TEXT>
+</DOC>

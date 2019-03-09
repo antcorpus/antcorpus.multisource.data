@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-190-20180327</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/03/27/wd-270318-china-girl-rescued</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد.. انقاذ طفلة صينية سقطت في شق ضيق</TITLE>
+<TIME>Tue, 27 Mar 2018 15:24:33 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+الطفلة كانت تلعب على سطح منزلها عندما انزلقت وسقطت في الحفرة
+</ABSTRACT>
+<TEXT>
+(CNN)-- سقطت طفلة صينية في شق يبلغ عرضه 20 سنتمترا أثناء لعبها بالقرب من منزلها، واستمرت محاولات انقاذها لـ20 دقيقة وفي نهاية المطاف تكللت بالنجاح ولم تتعرض لأي إصابات.
+</TEXT>
+</DOC>

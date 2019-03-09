@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO>CN-technology-77-20180406</DOCNO>
+<URL>https://arabic.cnn.com/travel/2018/04/06/tr-060418-virgin-galactic-launch-test-flight</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>شاهد.. اختبار مركبة أسرع من الصوت لنقل السياح للفضاء</TITLE>
+<TIME>Fri, 06 Apr 2018 10:00:57 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+هذه أول رحلة تعمل بها الشركة منذ تحطم نسخة سابقة من مركبتها في العام 2014 ومقتل جميع طياريها.
+</ABSTRACT>
+<TEXT>
+(CNN)-- أطلقت شركة "فيرجن غالاكتيك" بنجاح مركبتها الفضائية "سبيس شيب2"، التي تعمل بالطاقة الصاروخية، في رحلة تفوق سرعة الصوت.
+ 
+ 
+</TEXT>
+</DOC>

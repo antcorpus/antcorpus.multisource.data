@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-711-20181015</DOCNO>
+<URL>http://arabic.cnn.com/world/video/2018/10/16/v66782-germany-cologne-hostage</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>الشرطة الألمانية تحرر امرأة احتجزها مسلح في محطة للقطار</TITLE>
+<TIME>Mon, 15 Oct 2018 22:58:20 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+أصيب مرتكب جريمة في عملية احتجاز رهينة في مدينة كولونيا الألمانية بجروح خطيرة أثناء إجراء الشرطة تحرير للمرأة الرهينة.
+</ABSTRACT>
+<TEXT>
+أصيب مرتكب جريمة في عملية احتجاز رهينة في مدينة كولونيا الألمانية بجروح خطيرة أثناء إجراء الشرطة تحرير للمرأة الرهينة.
+</TEXT>
+</DOC>

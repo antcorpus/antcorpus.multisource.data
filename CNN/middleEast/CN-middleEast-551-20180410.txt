@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-middleEast-551-20180410</DOCNO>
+<URL>https://arabic.cnn.com/middle-east/2018/04/10/me-100418-russia-denies-douma-chemical-attack</URL>
+<SRC>CNN</SRC>
+<CAT>middleEast</CAT>
+<TITLE>شاهد.. روسيا تنفي استخدام سلاح كيماوي على دوما</TITLE>
+<TIME>Tue, 10 Apr 2018 06:38:22 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+يقول مسؤلون روس إنهم لم يعثروا على أي دلائل تشير إلى استخدام أسلحة كيماوية.
+</ABSTRACT>
+<TEXT>
+(CNN)-- يقول المسؤولون الروس إن الهجوم الكيماوي المزعوم كان مجرد خدعة من مجموعات مثل الخوذ البيضاء والمنظمات غير الحكومية التي تساعد ضحايا الهجمات. وقال الروس إن هذا مجرد عرض ولم يحدث هجوم كيماوي فعلاً.
+</TEXT>
+</DOC>

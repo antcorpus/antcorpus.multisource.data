@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-technology-83-20180413</DOCNO>
+<URL>https://arabic.cnn.com/tech/2018/04/13/tech-130418-smart-watch-saves-mother-thyroid-storm</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>شاهد كيف أنقذت ساعة أبل الذكية حياة امرأة!</TITLE>
+<TIME>Fri, 13 Apr 2018 17:50:26 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+ساعة أبل الذكية التي ترتديها هيذر هيندرشوت بدأت بتحذيرها من ارتفاع معدل ضربات قلبها أثناء وقت الراحة.
+</ABSTRACT>
+<TEXT>
+(CNN)-- تمكنت ساعة أبل الذكية من إنقاذ حياة امرأة أمريكية تدعى هيذر هيندرشوت، بعد أن حذرتها الساعة من أن معدل ضربات قلبها أثناء وقت الراحة كان مرتفعا بشكل غير طبيعي.
+</TEXT>
+</DOC>

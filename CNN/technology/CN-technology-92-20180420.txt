@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-technology-92-20180420</DOCNO>
+<URL>https://arabic.cnn.com/tech/2018/04/20/tech-200418-ikea-building-robot</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>شاهد.. روبوت يُجمّع قطعة أثاث خلال دقائق</TITLE>
+<TIME>Fri, 20 Apr 2018 05:54:15 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+العلماء قالوا إن الروبوت يُجمّع الأثاث بدقة وبلا الأخطاء التي يرتكبها البشر.
+</ABSTRACT>
+<TEXT>
+طوّر علماء في جامعة نانيانغ التكنولوجية في سنغافورة روبوتاً لديه القدرة على تجميع قطع أثاث لشركة "إيكيا" خلال وقت قياسي لا يتجاوز الدقائق.
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-167-20180322</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/03/22/wd-220318-karachi-port-cargo-ships-collide</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد… لحظة تصادم سفينتي شحن في ميناء بباكستان</TITLE>
+<TIME>Thu, 22 Mar 2018 16:50:50 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+حادث التصادم وقع بين سفينة تحمل شعار شركة "هاباج لويد"، وأخرى راسية.
+</ABSTRACT>
+<TEXT>
+(CNN)-- اصطدمت سفينتا شحن ببعضهما البعض في ميناء كراتشي الباكستاني، مما أدى سقوط ما لا يقل عن 21 حاوية في المياه بحسب محطة "جيو تي في" المتعاونة مع CNN.  
+</TEXT>
+</DOC>

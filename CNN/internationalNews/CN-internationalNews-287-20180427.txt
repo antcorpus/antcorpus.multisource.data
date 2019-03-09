@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-287-20180427</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/04/27/wd-270418-korea-summit-end-war</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد.. الكوريتان تعلنان "نهاية الحرب"</TITLE>
+<TIME>Fri, 27 Apr 2018 09:37:53 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+أكد بيان صادر عنهما "نهاية الحرب الكورية هذا العام"
+</ABSTRACT>
+<TEXT>
+(CNN)-- أعلن الرئيس الكوري الجنوبي مون جيه إن والزعيم الكوري الشمالي كيم جونغ أون، الجمعة، إنهاء الحرب بين بلديهما هذا العام.
+</TEXT>
+</DOC>

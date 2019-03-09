@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO>CN-technology-52-20180310</DOCNO>
+<URL>https://arabic.cnn.com/tech/2018/03/10/tech-100318-ransomware-attacks-robotscnnmoney</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>عندما يتحول الروبوت الى مجرم خطير</TITLE>
+<TIME>Sat, 10 Mar 2018 07:18:09 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+باحثون في مؤسسة للأمن الألكتروني أجروا اختبار هجوم فدية على روبوت "سوفت بانك "
+</ABSTRACT>
+<TEXT>
+(CNN)-- أجرى باحثون من شركة IOActive للأمن الألكتروني اختبار يحاكي هجوم فدية على روبوت "سوفت بانك" ، وكانت المفاجأة أن شركة الأمن كانت قادرة على جعله يطلب عملة البيتكوين وكذلك كيل الشتائم والتهديدات.
+ 
+</TEXT>
+</DOC>

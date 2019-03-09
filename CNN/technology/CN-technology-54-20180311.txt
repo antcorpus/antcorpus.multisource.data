@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-technology-54-20180311</DOCNO>
+<URL>https://arabic.cnn.com/tech/2018/03/11/tech-110318-aston-martin-hyundai-toyota-supra-geneva-motor-show</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>شاهد.. هذه أكثر 3 مركبات إثارة بمعرض جنيف للسيارات</TITLE>
+<TIME>Sun, 11 Mar 2018 10:18:18 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+بينما تكافح معارض السيارات لإيجاد طرق للبقاء مثيرة، يبدو أن معرض جنيف لم يواجه هذه المشكلة أبداً.
+</ABSTRACT>
+<TEXT>
+(CNN)-- من سيارة لاغوندا الكهربائية النموذجية من أستون مارتن إلى سيارة تويوتا سوبرا النموذجية الجديدة، معرض جنيف للسيارات لهذا العام لم يخيب ظننا.
+</TEXT>
+</DOC>

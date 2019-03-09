@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO>CN-internationalNews-315-20180503</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/05/03/wd-030518-iran-fm-nuclear-deal</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>ظريف: التهديد الأمريكي لن يؤدي إلى صفقة نووية جديدة</TITLE>
+<TIME>Thu, 03 May 2018 14:00:32 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+وزير الخارجية الإيراني، محمد جواد ظريف.
+</ABSTRACT>
+<TEXT>
+(CNN)-- قال وزير الخارجية الإيراني، محمد جواد ظريف، اليوم الخميس 3 مايو/ أيار، إنه سيتعين على الولايات المتحدة في الأيام القادمة أن تقرر ما إذا كانت ستفي بالتزامها أم لا بشأن الاتفاق النووي الإيراني.
+ 
+</TEXT>
+</DOC>

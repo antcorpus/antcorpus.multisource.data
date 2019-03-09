@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-217-20180404</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/04/04/wd-040418-california-copter-crash</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد.. مقتل 4 في تحطم مروحية للمارينز بتدريب في أمريكا</TITLE>
+<TIME>Wed, 04 Apr 2018 11:34:37 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+تستخدم مروحيات "CH-53" لنقل المستلزمات الثقيلة، ويمكنها حمل 16 طناً، وفقاً لما ذكره موقع المارينز.
+</ABSTRACT>
+<TEXT>
+(CNN)-- أعلنت البحرية الأمريكية، الأربعاء، عن تحطم مروحية تابعة لقوات المارينز الأمريكية في ولاية كاليفورنيا، الثلاثاء، ما أدى إلى مقتل أربعة من أفراد الطاقم.
+</TEXT>
+</DOC>

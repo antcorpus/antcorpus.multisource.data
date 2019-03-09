@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-economy-99-20180506</DOCNO>
+<URL>https://arabic.cnn.com/business/2018/05/06/busi-060518-business-minute</URL>
+<SRC>CNN</SRC>
+<CAT>economy</CAT>
+<TITLE>ما هي تقنية البلوك تشين؟ وكيف تعمل؟</TITLE>
+<TIME>Sun, 06 May 2018 12:03:48 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+خبيرة الأسواق المالية إيمان مطلق توضح في هذا الفيديو الفرق بين البيتكوين والبلوك تشين وطريقة عملها واستخداماتها
+</ABSTRACT>
+<TEXT>
+خبيرة الأسواق المالية إيمان مطلق توضح في هذا الفيديو الفرق بين البيتكوين والبلوك تشين وطريقة عملها واستخداماتها
+</TEXT>
+</DOC>

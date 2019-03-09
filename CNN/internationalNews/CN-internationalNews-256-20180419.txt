@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-256-20180419</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/04/19/wd-190418-china-taiwan-drills</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد.. مناورات صينية بالذخيرة الحية في مضيق تايوان</TITLE>
+<TIME>Thu, 19 Apr 2018 16:30:59 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+أظهرت مقاطع فيديو نشرتها وسائل إعلام صينية طائرات مروحية تطلق صواريخ وسفن حربية تجوب البحر.
+</ABSTRACT>
+<TEXT>
+أجرى الجيش الصيني مناورات بالذخيرة الحية على امتداد الساحل الجنوبي الشرقي، في مضيق تايوان.
+</TEXT>
+</DOC>

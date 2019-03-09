@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO>CN-internationalNews-262-20180421</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/04/21/wd-210418-students-rally-against-gun-violence</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد.. آلاف الطلاب يتظاهرون ضد عنف السلاح بأمريكا</TITLE>
+<TIME>Sat, 21 Apr 2018 10:23:08 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+احتجاج الطلاب يأتي بالتزامن مع ذكرى مرور 19 عاما على مذبحة مدرسة كولومباين الثانوية
+</ABSTRACT>
+<TEXT>
+(CNN)-- عطل آلاف الطلاب الدراسة في أنحاء الولايات المتحدة للمطالبة بوضع حد للعنف باستخدام الأسلحة النارية.
+ 
+</TEXT>
+</DOC>

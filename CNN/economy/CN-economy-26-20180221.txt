@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-economy-26-20180221</DOCNO>
+<URL>https://arabic.cnn.com/business/2018/02/21/buss-210218-eurostar-amsterdam</URL>
+<SRC>CNN</SRC>
+<CAT>economy</CAT>
+<TITLE>"يوروستار".. حلقة وصل بريطانيا مع الاتحاد الأوروبي</TITLE>
+<TIME>Wed, 21 Feb 2018 15:35:28 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+منذ إطلاقه في التسعينيات، "يوروستار" تقول إنها ضاعفت عدد المسافرين من لندن إلى باريس وبروكسيل.
+</ABSTRACT>
+<TEXT>
+(CNN)-- على مدى عقدين، لطالما سار قطارهم مسرعاً عابراً من تحت القناة الإنجليزية، الأمر الذي أحدث ثورة في السفر بين المملكة المتحدة وأوروبا.
+</TEXT>
+</DOC>

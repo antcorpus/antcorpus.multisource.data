@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-technology-68-20180325</DOCNO>
+<URL>https://arabic.cnn.com/tech/2018/03/25/tech-250318-jeff-bezos-amazon-boston-dynamics-robot-dog-spotmini-mars</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>شاهد.. حيوان أليف جديد لرئيس أمازون.. كلب روبوتي!</TITLE>
+<TIME>Sun, 25 Mar 2018 14:31:53 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+قد يبدو كلب بيزوس الجديد مألوفاً، فهو روبوت من “بوسطن ديناميكس“، يسمى بـ SpotMini.
+</ABSTRACT>
+<TEXT>
+(CNN)-- قام الرئيس التنفيذي لشركة أمازون جيف بيزوس بنشر صورة له وهو يسير جنباً إلى جنب مع SpotMini، وهو كلب روبوتي متعدد الاستعمالات من “بوسطن ديناميكس“.
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-middleEast-340-20180323</DOCNO>
+<URL>https://arabic.cnn.com/middle-east/2018/03/23/me-230318-syrian-fighters-evacuted-eastern-ghouta</URL>
+<SRC>CNN</SRC>
+<CAT>middleEast</CAT>
+<TITLE>الغوطة الشرقية.. تواصل إجلاء المقاتلين والمدنيين من حرستا</TITLE>
+<TIME>Fri, 23 Mar 2018 05:51:36 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+قبل بدء عملية الإجلاء، تم تبادل 13 أسيراً بين القوات السورية ومقاتلي المعارضة.
+</ABSTRACT>
+<TEXT>
+(CNN)-- بدأ مقاتلو المعارضة السورية مع عائلاتهم يوم الخميس عملية إجلاء مدينة حرستا في الغوطة الشرقية، بعد التوصل إلى اتفاق مع الحكومة السورية.
+</TEXT>
+</DOC>

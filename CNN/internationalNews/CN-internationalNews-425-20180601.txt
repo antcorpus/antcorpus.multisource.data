@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-425-20180601</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/06/01/wd-010618-hawaii-community-covered-shooting-laval-orig</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد.. نهر من الحمم يندفع نحو أحياء سكنية في هاواي</TITLE>
+<TIME>Fri, 01 Jun 2018 09:43:21 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+تدفقت الحمم البركانية والصخور المنصهرة بعد خروجها من شقوق أحدثها بركان كيلاويا في هاواي.
+</ABSTRACT>
+<TEXT>
+(CNN)-- يظهر هذا الفيديو تدفق نهر من الحمم البركانية والصخور المنصهرة بعد خروجها من شقوق أحدثها بركان كيلاويا في هاواي باتجاه الأحياء السكنية.
+</TEXT>
+</DOC>

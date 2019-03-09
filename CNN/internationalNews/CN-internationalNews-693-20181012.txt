@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-693-20181012</DOCNO>
+<URL>http://arabic.cnn.com/world/video/2018/10/12/v66649-hurricane-michael-destruction-aftermath</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>إعصار مايكل.. مسار الدمار قبل وبعد مروره</TITLE>
+<TIME>Fri, 12 Oct 2018 15:55:17 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+ضرب إعصار مايكل اليابسة في ولاية فلوريدا الأمريكية برياح تبلغ سرعتها 155 ميلاً أي ما يعادل 250 كيلومتراً في الساعة، وقد ترك الإعصار خلفه دماراً واسعاً في المنطقة.
+</ABSTRACT>
+<TEXT>
+ضرب إعصار مايكل اليابسة في ولاية فلوريدا الأمريكية برياح تبلغ سرعتها 155 ميلاً أي ما يعادل 250 كيلومتراً في الساعة، وقد ترك الإعصار خلفه دماراً واسعاً في المنطقة.
+</TEXT>
+</DOC>

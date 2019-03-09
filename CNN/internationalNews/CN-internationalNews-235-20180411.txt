@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-235-20180411</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/04/11/wd-110418-indonesia-bootleg-liquor-deaths</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>اندونيسيا.. عشرات الوفيات جراء تناول خمور فاسدة</TITLE>
+<TIME>Wed, 11 Apr 2018 12:57:14 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+وبحسب السلطات وصل عشرات المرضى إلى مستشفيات محلية منذ الأسبوع الماضي من بينهم عدد من الحالات الحرجة.
+</ABSTRACT>
+<TEXT>
+(CNN)-- لقي مالايقل عن 41 شخصًا مصرعهم خلال أيام جراء تناول خمور محلية سامة منتجة بشكل غير قانوني في إندونيسيا.
+</TEXT>
+</DOC>

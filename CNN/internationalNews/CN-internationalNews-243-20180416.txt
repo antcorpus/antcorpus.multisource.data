@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-243-20180416</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/04/16/wd-160418-australia-sydney-bushfire</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد.. حرائق ضخمة تلتهم آلاف الهكتارات بأستراليا</TITLE>
+<TIME>Mon, 16 Apr 2018 15:31:58 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+اندلعت حرائق ضخمة في غابات في ضواحي سيدني الجنوبية الغربية.
+</ABSTRACT>
+<TEXT>
+(CNN)-- اندلعت حرائق ضخمة في غابات بمدينة سيدني الأسترالية، في حين تحاول فرق الإطفاء السيطرة على النيران والحد من انتشارها.
+</TEXT>
+</DOC>

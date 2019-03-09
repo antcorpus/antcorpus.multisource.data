@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-middleEast-623-20180414</DOCNO>
+<URL>https://arabic.cnn.com/middle-east/2018/04/14/me-140418-makki-syria-sot</URL>
+<SRC>CNN</SRC>
+<CAT>middleEast</CAT>
+<TITLE>شاهد عيان يصف لـCNN ما شاهده بضربة سوريا</TITLE>
+<TIME>Sat, 14 Apr 2018 11:21:00 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+مكي وصف لشبكتنا ما شاهده أثناء الضربة على سوريا.
+</ABSTRACT>
+<TEXT>
+(CNN)-- وصف الصحفي السوري داني مكي، في مقابلة لشبكة CNN، ما شاهده أثناء الضربة التي شنتها الولايات المتحدة وبريطانيا وفرنسا، وذلك على مواقع تابعة للنظام السوري.
+</TEXT>
+</DOC>

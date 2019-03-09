@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-middleEast-37-20180220</DOCNO>
+<URL>https://arabic.cnn.com/middle-east/2018/02/20/fp-200218-libya-migrants-1</URL>
+<SRC>CNN</SRC>
+<CAT>middleEast</CAT>
+<TITLE>مهاجرون يروون قصصاً موجعة عن حالات التعذيب في ليبيا</TITLE>
+<TIME>Tue, 20 Feb 2018 11:31:17 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+مهاجرون يروون قصص التعذيب التي مروا بها في ليبيا.
+</ABSTRACT>
+<TEXT>
+أتلانتا، الولايات المتحدة الأمريكية (CNN) -- على متن قارب إنقاذ في البحر الأبيض المتوسط، يحكي شاب بعمر الثمانية عشر عاماً قصة أسره وتعذيبه أثناء الأشهر التي قضاها في ليبيا.
+</TEXT>
+</DOC>

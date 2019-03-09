@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-middleEast-180-20180305</DOCNO>
+<URL>https://arabic.cnn.com/middle-east/2018/03/05/me-050318-saudi-egypt-sallem-nafsak-play</URL>
+<SRC>CNN</SRC>
+<CAT>middleEast</CAT>
+<TITLE>شاهد.. السيسي ومحمد بن سلمان يحضران “سلّم نفسك”</TITLE>
+<TIME>Mon, 05 Mar 2018 07:46:36 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+ولي العهد السعودي وصل الأحد، إلى العاصمة المصرية، القاهرة، في زيارة تستمر ثلاثة أيام.
+</ABSTRACT>
+<TEXT>
+(CNN)-- دعا الرئيس المصري عبدالفتاح السيسي ولي العهد السعودي الأمير محمد بن سلمان لحضور عرض خاص لمسرحية "سلم نفسك" بدار الأوبرا المصرية الإثنين.
+</TEXT>
+</DOC>

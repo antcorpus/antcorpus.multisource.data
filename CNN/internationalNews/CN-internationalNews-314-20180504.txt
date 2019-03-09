@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-314-20180504</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/05/04/wd-040518-hawaii-volcano</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>بالفيديو.. عمليات اخلاء في هاواي بعد ثوران بركان</TITLE>
+<TIME>Fri, 04 May 2018 06:35:03 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+أظهرت مقاطع فيديو تظهر تدفق الحمم البركانية بالقرب من منازل السكان.
+</ABSTRACT>
+<TEXT>
+(CNN)-- ثار بركان كيلاويا في جزر هاواي الأميركية، الخميس، ما أجبر السلطات على توجيه دعوات للسكان بضرورة إخلاء منازلهم.
+</TEXT>
+</DOC>

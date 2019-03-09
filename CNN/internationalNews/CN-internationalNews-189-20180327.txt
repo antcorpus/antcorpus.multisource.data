@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-189-20180327</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/03/27/wd-270318-china-north-korean-motorcade</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>هل زار زعيم كوريا الشمالية الصين سراً؟</TITLE>
+<TIME>Tue, 27 Mar 2018 13:42:40 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+لم تشر وسائل الإعلام الكورية الشمالية إلى لغز القطار أو مكان وجود زعيمهم.
+</ABSTRACT>
+<TEXT>
+(CNN)— أثارت مقاطع فيديو لوصول قطار غامض إلى العاصمة الصينية بكين، أمس الاثنين، بالتزامن مع فرض إجراءات أمنية مشددة، وكذلك مرور موكب ضخم في شوارع بكين، أنباء عن وصول الزعيم الكوري الشمالي، كيم جونغ أون، في زيارة مفاجئة إلى الصين.
+</TEXT>
+</DOC>

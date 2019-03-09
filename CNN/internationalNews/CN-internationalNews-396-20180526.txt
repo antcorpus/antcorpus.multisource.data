@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-396-20180526</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/05/26/wd-260518-lava-flows-through-hawaii-neighborhood-orig-trnd-lab</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد.. حمم بركانية تلتهم منزلا في دقائق</TITLE>
+<TIME>Sat, 26 May 2018 07:06:16 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+“نهر” الحمم المتدفق التهم المنزل في غضون دقائق فقط.
+</ABSTRACT>
+<TEXT>
+(CNN)-- قام إسحاق كركاور بتصوير هذا المشهد بالقرب من منزله في حي ليلاني إستيتس في هاواي يوم 14 مايو/أيار.
+</TEXT>
+</DOC>

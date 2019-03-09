@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-172-20180323</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/03/23/wd-230318-sacramento-protests</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>غضب في شوارع كاليفورنيا بعد قتل الشرطة لشاب أسود</TITLE>
+<TIME>Fri, 23 Mar 2018 10:16:19 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+سرعان ما انتشر الفيديو عبر الإنترنت، الأمر الذي أدى لاندلاع سلسلة من الاحتجاجات.
+</ABSTRACT>
+<TEXT>
+(CNN)-- أثار تسجيل مصور يظهر رجال شرطة أمريكيين يطلقون النار على شاب أسود في سكرامنتو عاصمة ولاية كاليفورنيا احتجاجات بشوارع المدينة.
+</TEXT>
+</DOC>

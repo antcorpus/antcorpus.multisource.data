@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-middleEast-273-20180315</DOCNO>
+<URL>https://arabic.cnn.com/middle-east/2018/03/15/me-150318-eastern-ghouta-civilians-flee-exodus</URL>
+<SRC>CNN</SRC>
+<CAT>middleEast</CAT>
+<TITLE>شاهد.. نزوح الآلاف من الغوطة الشرقية عبر حمورية</TITLE>
+<TIME>Thu, 15 Mar 2018 16:00:28 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+رجال ونساء وأطفال شوهدوا وهم ينزحون سيراً على الأقدام وعلى متن شاحنات عبر ممر حمورية
+</ABSTRACT>
+<TEXT>
+(CNN)—نزح الآلاف من الغوطة الشرقية الخاضعة لسيطرة المعارضة السورية باتجاه مناطق سيطرة النظام عبر ممر حمورية.
+</TEXT>
+</DOC>

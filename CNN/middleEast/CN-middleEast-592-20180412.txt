@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-middleEast-592-20180412</DOCNO>
+<URL>https://arabic.cnn.com/middle-east/2018/04/12/me-120418-ghouta-destruction</URL>
+<SRC>CNN</SRC>
+<CAT>middleEast</CAT>
+<TITLE>زملكا بالغوطة الشرقية.. من هنا مرت الكارثة!</TITLE>
+<TIME>Thu, 12 Apr 2018 17:35:36 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+في حيرة وسط الشوارع يقف بعض السكان وهم يحاولون البحث عن منازلهم التي نزحوا عنها.
+</ABSTRACT>
+<TEXT>
+(CNN)-- جولة في بلدة زملكا بالغوطة الشرقية، إذ تبدو أكوام الركام والأبنية المتصدعة جلية في شوارع البلدة.
+</TEXT>
+</DOC>

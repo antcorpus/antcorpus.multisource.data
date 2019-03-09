@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-263-20180421</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/04/21/wd-210418-palestinian-killed-malaysia</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد.. مقتل فلسطيني رمياً بالرصاص في ماليزيا</TITLE>
+<TIME>Sat, 21 Apr 2018 13:55:39 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+قال رئيس الشرطة إن المشتبه به أطلق 10 أعيرة نارية، أصابت أربعة منها المحاضر في الرأس والجسم.
+</ABSTRACT>
+<TEXT>
+وفي حديثه إلى المراسلين ، قال رئيس الشرطة إن المشتبه به أطلق 10 أعيرة نارية، أصابت أربعة منها المحاضر في الرأس والجسم، مما أدى إلى مقتله على الفور.
+</TEXT>
+</DOC>

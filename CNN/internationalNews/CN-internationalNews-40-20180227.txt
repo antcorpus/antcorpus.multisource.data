@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-40-20180227</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/02/27/wd-270218-plane-engine-fire</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد.. لحظة اشتعال النيران بمحرك طائرة ركاب</TITLE>
+<TIME>Tue, 27 Feb 2018 18:22:53 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+انتشر مقطع فيديو يظهر لحظات اشتعال محرك الطائرة.
+</ABSTRACT>
+<TEXT>
+(CNN)— اضطرت طائرة تابعة لخطوط "ساوث ويست" الأمريكية، إلى الهبوط بشكل طارئ، بعد إقلاعها بوقت قصير، نتيجة عطل في المحرك.
+</TEXT>
+</DOC>

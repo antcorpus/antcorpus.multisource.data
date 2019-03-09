@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-technology-132-20180728</DOCNO>
+<URL>https://arabic.cnn.com/tech/video/2018/07/28/v63802-sci-280718-nasa-history-60-years</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>بـ120 ثانية.. هكذا صنعت "ناسا" التاريخ خلال 60 عاما</TITLE>
+<TIME>Sat, 28 Jul 2018 17:55:40 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+ابتداء من آلان سبارد وحتى نيل أرمسترونغ، ومن Pioneer I وحتى طواف Opportunity هذه أبرز إنجازات واكتشافات ناسا خلال 60 عاما.
+</ABSTRACT>
+<TEXT>
+ابتداء من آلان سبارد وحتى نيل أرمسترونغ، ومن Pioneer I وحتى طواف Opportunity هذه أبرز إنجازات واكتشافات ناسا خلال 60 عاما.
+</TEXT>
+</DOC>

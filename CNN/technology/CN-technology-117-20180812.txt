@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-technology-117-20180812</DOCNO>
+<URL>http://arabic.cnn.com/tech/video/2018/08/12/v64285-tech-120818-nasa-parker-solar-probe-launch</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>ناسا تطلق مسبارا للوصول إلى أقرب نقطة ممكنة من الشمس</TITLE>
+<TIME>Sun, 12 Aug 2018 14:45:23 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+أطلقت وكالة ناسا مركبة "باركر سولار" لاستكشاف الغلاف الجوي للشمس.
+</ABSTRACT>
+<TEXT>
+أطلقت وكالة ناسا مركبة "باركر سولار" لاستكشاف الغلاف الجوي للشمس.
+</TEXT>
+</DOC>

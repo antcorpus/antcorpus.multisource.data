@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-sport-313-20180527</DOCNO>
+<URL>https://arabic.cnn.com/sport/2018/05/27/vr-360-formula-e-gen2</URL>
+<SRC>CNN</SRC>
+<CAT>sport</CAT>
+<TITLE>بتقنية 360 درجة.. جولة من خلف مقود سيارة فورمولا 1</TITLE>
+<TIME>Sun, 27 May 2018 18:38:43 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+جولة بسيارة Gen2 الكهربائية بالكامل، والتي ستظهر لأول مرة في Formula E في وقت لاحق من هذا العام.
+</ABSTRACT>
+<TEXT>
+(CNN)-- يأخذك بطل العالم السابق لسباقات الفورمولا 1، نيكو روزبرغ، في جولة بسيارة Gen2 الكهربائية بالكامل، والتي ستظهر لأول مرة في منافسات Formula E في وقت لاحق من هذا العام.
+</TEXT>
+</DOC>

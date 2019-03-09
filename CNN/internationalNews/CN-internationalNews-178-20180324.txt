@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-178-20180324</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/03/24/wd-240318-us-navy-new-warplane</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>نظرة حصرية على أحدث جيل من مقاتلات أمريكا!</TITLE>
+<TIME>Sat, 24 Mar 2018 08:51:14 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+في العام الماضي، شاركت الولايات المتحدة في استعراضات كبيرة للقوة العسكرية في المنطقة
+</ABSTRACT>
+<TEXT>
+(CNN)—تستعد الولايات المتحدة وكوريا الجنوبية لإجراء مناورات عسكرية مشتركة، ومن المقرر أن يشارك فيها عشرات آلاف الجنود من البلدين.
+</TEXT>
+</DOC>

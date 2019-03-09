@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-378-20180522</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/05/22/wd-220518-china-tests-bomber</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>قاذفات صينية تستطيع حمل أسلحة نووية تهبط في بحر الصين الجنوبي</TITLE>
+<TIME>Tue, 22 May 2018 16:33:01 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+الجيش الصيني قال إن قاذفات مختلفة شاركت في التدريبات، من بينها الطائرة البعيدة المدى "أتش-6 كاي" القادرة على حمل أسلحة نووية.
+</ABSTRACT>
+<TEXT>
+أجرت قاذفات قنابل صينية بعيدة المدى عملية هبوط للمرة الأولى في إحدى جزر بحر الصين الجنوبي المتنازع عليه.
+</TEXT>
+</DOC>

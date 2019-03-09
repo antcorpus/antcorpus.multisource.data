@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-341-20180511</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/05/11/wd-110518-iran-protests</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد.. مظاهرات مناهضة لأمريكا وإسرائيل في إيران</TITLE>
+<TIME>Fri, 11 May 2018 11:49:39 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+الحكومة والجيش الإيراني دعوا إلى احتجاجات ضخمة بعد صلاة الجمعة.
+</ABSTRACT>
+<TEXT>
+(CNN)-- خرجت، الجمعة في إيران مظاهرات، للتنديد بأمريكا وإسرائيل، تلبية لدعوة من الحكومة والجيش الإيراني.
+</TEXT>
+</DOC>

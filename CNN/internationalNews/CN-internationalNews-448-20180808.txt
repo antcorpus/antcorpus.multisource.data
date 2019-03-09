@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-448-20180808</DOCNO>
+<URL>http://arabic.cnn.com/world/video/2018/08/08/v64167-wd-080818-australia-drought-new-south-wales</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>مزارع الحيوانات تعاني من الجفاف التام في أستراليا</TITLE>
+<TIME>Wed, 08 Aug 2018 18:08:35 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+تضررت الأراضي الزراعية بشدة في أكثر فصول السنين حرارة وجفافا تم تسجيله في نيو ساوث ويلز، أحدى الولايات الأسترالية.
+</ABSTRACT>
+<TEXT>
+تضررت الأراضي الزراعية بشدة في أكثر فصول السنين حرارة وجفافا تم تسجيله في نيو ساوث ويلز، أحدى الولايات الأسترالية.
+</TEXT>
+</DOC>

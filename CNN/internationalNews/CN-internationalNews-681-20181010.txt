@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-681-20181010</DOCNO>
+<URL>http://arabic.cnn.com/world/video/2018/10/10/v66572-hurricane-michael-space-station-images</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد كيف يبدو الإعصار "مايكل" من الفضاء</TITLE>
+<TIME>Wed, 10 Oct 2018 13:03:37 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+أظهرت صور التقطت من محطة الفضاء الدولية الإعصار "مايكل" وهو يتحرك نحو الولايات المتحدة
+</ABSTRACT>
+<TEXT>
+أظهرت صور التقطت من محطة الفضاء الدولية الإعصار "مايكل" وهو يتحرك نحو الولايات المتحدة
+</TEXT>
+</DOC>

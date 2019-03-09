@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-165-20180321</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/03/21/wd-210318-tear-gas-assembly-kosovo</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد.. إلقاء قنابل غاز مسيل للدموع داخل برلمان كوسوفو</TITLE>
+<TIME>Wed, 21 Mar 2018 15:15:35 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+أعضاء من قائمة تقرير المصير هم من قاموا بإلقاء قنابل الغاز في مبنى البرلمان.
+</ABSTRACT>
+<TEXT>
+(CNN)-- فوجئ أعضاء البرلمان في كوسوفو، بإلقاء قنابل غاز مسيلة للدموع داخل أروقة القاعة لحظة دخول عضو البرلمان عن القائمة الصربية، آدم هوشاج، أثناء انعقاد جلسة للتصويت على قانون لترسيم الحدود.
+</TEXT>
+</DOC>

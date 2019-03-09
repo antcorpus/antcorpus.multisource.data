@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-technology-112-20180529</DOCNO>
+<URL>https://arabic.cnn.com/tech/2018/05/29/tech-290518-california-digital-license-plate-pilot-program-orig</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>بعد هذا الابتكار.. هل تختفي لوحات السيارات التقليدية قريباً؟</TITLE>
+<TIME>Tue, 29 May 2018 16:28:46 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+اللوحة بإمكانها الإبلاغ في حال تعرض السيارة للسرقة وعرض تحذيرات حيوية ومعلومات عن الطقس.
+</ABSTRACT>
+<TEXT>
+سكرامنتو أول مدينة أمريكية تطرح برنامجا تجريبيا لاختبار  لوحات سيارات رقمية.
+</TEXT>
+</DOC>

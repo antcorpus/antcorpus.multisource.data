@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-economy-72-20180403</DOCNO>
+<URL>https://arabic.cnn.com/entertainment/2018/04/03/buss-030418-russian-postal-mail-delivery-drone-crash-cnnmoney-orig</URL>
+<SRC>CNN</SRC>
+<CAT>economy</CAT>
+<TITLE>شاهد.. تحطم أول طائرة روسية بدون طيار لنقل البريد</TITLE>
+<TIME>Tue, 03 Apr 2018 19:21:46 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+لم تتم مهمة توصيل بريد باستخدام طائرة بدون طيار روسية كما خطط لها.
+</ABSTRACT>
+<TEXT>
+تحطمت طائرة بدون طيار روسية الصنع، أثناء قيامها بأول مهمة لتوصيل البريد، بعد اصطدامها بجدار، وتحولت إلى أشلاء في سيبيريا.
+</TEXT>
+</DOC>

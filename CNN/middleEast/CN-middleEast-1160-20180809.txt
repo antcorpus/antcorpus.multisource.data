@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-middleEast-1160-20180809</DOCNO>
+<URL>http://arabic.cnn.com/middle-east/video/2018/08/09/v64204-me-090818-gaza-moment-explosion</URL>
+<SRC>CNN</SRC>
+<CAT>middleEast</CAT>
+<TITLE>شاهد.. لحظة استهداف مركز سعيد المسحال الثقافي في غزة</TITLE>
+<TIME>Thu, 09 Aug 2018 17:52:07 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+ترصد CNN لحظة استهداف مبنى مركز سعيد المسحال الثقافي، الذي دُمر، الخميس، في أعقاب تجدد الغارات على غزة.
+</ABSTRACT>
+<TEXT>
+ترصد CNN لحظة استهداف مبنى مركز سعيد المسحال الثقافي، الذي دُمر، الخميس، في أعقاب تجدد الغارات على غزة.
+</TEXT>
+</DOC>

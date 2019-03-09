@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-technology-98-20180429</DOCNO>
+<URL>https://arabic.cnn.com/tech/2018/04/29/tech-290418-2018-nissan-leaf-electric-car</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>نيسان ليف.. سيارة كهربائية بسعر في متناول الجميع</TITLE>
+<TIME>Sun, 29 Apr 2018 16:26:41 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+تبلغ قيمة السيارة قرابة 30 ألف دولار، ويمكن أن تسير مسافة 240 كيلومتراً دون إعادة شحنها.
+</ABSTRACT>
+<TEXT>
+(CNN)-- يأخذنا مذيع CNNMoney، بيتر فالديز - دابينا، في جولة بداخل سيارة نيسان ليف 2018، والتي تبلغ قيمتها قرابة 30 ألف دولار، ويمكن أن تسير مسافة 240 كيلومتراً دون إعادة شحنها.
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-333-20180509</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/05/09/wd-090518-cruise-ship-water-line-breaks-caribbean</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد.. مياه تغمر سفينة سياحية على طريقة "تيتانيك"</TITLE>
+<TIME>Wed, 09 May 2018 15:16:16 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+أظهرت الصور حالة الهلع بين ركاب السفينة.
+</ABSTRACT>
+<TEXT>
+(CNN)-- غمرت المياه أروقة سفينة "كرنفال دريم" السياحية، في اليوم الخامس من رحلتها في الكاريبي عندما بدأت المياه تتدفق إلى الممرات.  
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-economy-135-20180531</DOCNO>
+<URL>https://arabic.cnn.com/business/2018/05/31/buss-310518-business-minute-blockchain-banks-transactions</URL>
+<SRC>CNN</SRC>
+<CAT>economy</CAT>
+<TITLE>كيف تُدخل البنوك تقتيات البلوك تشين في عملياتها؟</TITLE>
+<TIME>Thu, 31 May 2018 09:38:35 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+خبيرة الأسواق المالية إيمان مطلق تتحدث في هذا الفيديو عن التطور الذي يحدث في الخدمات البنكية
+</ABSTRACT>
+<TEXT>
+خبيرة الأسواق المالية إيمان مطلق تتحدث في هذا الفيديو عن التطور الذي يحدث في الخدمات البنكية حيث يتم إدخال تقنيات البلوك تشين ضمن هذه العمليات  
+</TEXT>
+</DOC>

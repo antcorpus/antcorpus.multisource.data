@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-middleEast-67-20180223</DOCNO>
+<URL>https://arabic.cnn.com/middle-east/2018/02/23/me-230218-syria-ghouta-activist-nour-adam-anderson-sot</URL>
+<SRC>CNN</SRC>
+<CAT>middleEast</CAT>
+<TITLE>ناشط سوري يصف لـCNN الحياة في الغوطة الشرقية</TITLE>
+<TIME>Fri, 23 Feb 2018 08:42:37 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+الناشط السوري، نور آدم، يتحدث للزميلة بيكي أنديرسون، عن الأوضاع التي يعيشها المدنيون في الغوطة الشرقية.
+</ABSTRACT>
+<TEXT>
+الناشط السوري، نور آدم، يتحدث للزميلة بيكي أنديرسون، عن الأوضاع التي يعيشها المدنيون في الغوطة الشرقية.
+</TEXT>
+</DOC>

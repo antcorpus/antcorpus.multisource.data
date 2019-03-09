@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-technology-35-20180227</DOCNO>
+<URL>https://arabic.cnn.com/tech/2018/02/27/tech-270218-fibit-ionic-review</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>ما هي مميزات ساعة "Ionic" الذكية من "Fitbit"؟</TITLE>
+<TIME>Tue, 27 Feb 2018 09:50:51 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+الساعة تحوي مشغّلاً مستقلاً للموسيقى وخاصية تحديد المواقع وغيرها من المميزات.
+</ABSTRACT>
+<TEXT>
+دبي، الإمارات العربية المتحدة (CNN)-- من تجاوب الشاشة السريع إلى قياس العديد من النشاطات الرياضية، نستعرض لكم في هذا الفيديو أبرز مميزات ساعة "Ionic" الذكية من "Fitbit".
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-middleEast-264-20180314</DOCNO>
+<URL>https://arabic.cnn.com/middle-east/2018/03/14/fp-140318-myfreedomday-abu-dhabi</URL>
+<SRC>CNN</SRC>
+<CAT>middleEast</CAT>
+<TITLE>يوم الحرية.. من داخل صف مدرسي في أبوظبي</TITLE>
+<TIME>Wed, 14 Mar 2018 11:22:41 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+بالنسبة لكل واحد من هؤلاء الطلاب، الحرية تعني أمراً مختلفاً، لكن مثلنا جميعاً، هي تعني كل شيء.
+</ABSTRACT>
+<TEXT>
+(CNN) -- شباب في صف مدرسي عادي… ليسوا نشطاء معتادين، لكنهم يتعاونون مع CNN على أمل تغيير العالم، لوضع حد لسم قديم، وهو العبودية.
+</TEXT>
+</DOC>

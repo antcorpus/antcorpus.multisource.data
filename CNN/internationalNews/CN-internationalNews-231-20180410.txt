@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-231-20180410</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/04/10/wd-100418-trump-responds-cohen-raid</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد.. FBI يداهم محامي ترامب.. والرئيس الأمريكي يرد</TITLE>
+<TIME>Tue, 10 Apr 2018 10:08:02 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+يقول مصدر إن FBI استولى على مواد بين السيد ترامب وكوهين.
+</ABSTRACT>
+<TEXT>
+(CNN)-- لم يتهاون الرئيس ترامب عن مهاجمة المداهمة التي استهدفت محاميه مايكل كوهين، قائلاً إن ما حدث "هجوم على بلدنا بالمعنى الحقيقي، هذا هجوم على ما نؤمن به جميعاً”. 
+</TEXT>
+</DOC>

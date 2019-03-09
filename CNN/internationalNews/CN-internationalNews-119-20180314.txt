@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-119-20180314</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/03/14/fp-140318-what-freedom-means</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>في يوم CNN للحرية.. ماذا تعني الحرية لكم؟</TITLE>
+<TIME>Wed, 14 Mar 2018 07:05:25 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+أشخاص من حول العالم يعبّرون عن معنى الحرية بالنسبة إليهم.
+</ABSTRACT>
+<TEXT>
+(CNN) -- في يوم MyFreedomDay#، يخبرنا بعض الطلاب والشخصيات المشهورة من حول العالم عن معنى الحرية بالنسبة إليهم.
+</TEXT>
+</DOC>

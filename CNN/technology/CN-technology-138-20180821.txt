@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-technology-138-20180821</DOCNO>
+<URL>https://arabic.cnn.com/tech/video/2018/08/21/v64571-tech-210818-huawei-nova-3-smartphone-camera-dslr-ad-egypt</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>“هواوي” في ورطة بمصر.. "سيلفي" ممثلة السبب</TITLE>
+<TIME>Tue, 21 Aug 2018 10:50:05 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+هذا هو إعلان لكاميرا هاتف “Nova 3” التابع لـ“هواوي”. لكنه لم يُصوّر بكاميرا الهاتف.
+</ABSTRACT>
+<TEXT>
+هذا هو إعلان لكاميرا هاتف “Nova 3” التابع لـ“هواوي”. لكنه لم يُصوّر بكاميرا الهاتف.
+</TEXT>
+</DOC>

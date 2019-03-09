@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-technology-158-20180920</DOCNO>
+<URL>http://arabic.cnn.com/tech/video/2018/09/20/v65774-satellite-net-space-junk</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>شاهد شبكة أقمار صناعية وهي تلتقط القمامة في الفضاء</TITLE>
+<TIME>Thu, 20 Sep 2018 09:11:15 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+القمر الصناعي البريطاني RemoveDebris اختبر بنجاح تقنيته الجديدة التي تنظف الفضاء، وهذه هي المرة الأولى التي تلتقط فيها الشبكة جسماً يحاكي قطعة قمامة.
+</ABSTRACT>
+<TEXT>
+القمر الصناعي البريطاني RemoveDebris اختبر بنجاح تقنيته الجديدة التي تنظف الفضاء، وهذه هي المرة الأولى التي تلتقط فيها الشبكة جسماً يحاكي قطعة قمامة.
+</TEXT>
+</DOC>

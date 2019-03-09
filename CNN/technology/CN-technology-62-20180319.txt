@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-technology-62-20180319</DOCNO>
+<URL>https://arabic.cnn.com/tech/2018/03/19/tech-190318-bot-help-document-harassment</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>شاهد.. روبوت يساعدك في الإبلاغ عن التحرش والتمييز!</TITLE>
+<TIME>Mon, 19 Mar 2018 12:24:53 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+كيف يمكن أن يساعد الروبوت في جعل بيئة العمل أكثر أماناً؟
+</ABSTRACT>
+<TEXT>
+(CNN)-- "سبوت" هو  روبوت دردشة تفاعلية يساعد الموظفين على تعقب التحرش والتمييز في مكان العمل والإبلاغ عنهما. فكيف يمكن أن يساعد الروبوت في جعل بيئة العمل أكثر أمناً؟
+</TEXT>
+</DOC>

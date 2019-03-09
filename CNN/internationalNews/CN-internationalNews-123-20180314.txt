@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-123-20180314</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/03/14/wd-140318-shoe-memorial-capitol-hill-orig-video-trnd</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>احتجاج بـ7 آلاف حذاء أمام الكونغرس الأمريكي </TITLE>
+<TIME>Wed, 14 Mar 2018 15:53:33 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+الأحذية غطت مساحة تزيد عن 10 آلاف قدم مربع من حديقة مبنى الكونغرس
+</ABSTRACT>
+<TEXT>
+واشنطن، الولايات المتحدة الأمريكية (CNN)-- وضعت آلاف الأحذية أمام مبنى الكونغرس لتمثيل الأطفال الذين قتلوا بسبب العنف المسلح في الولايات المتحدة منذ حادث إطلاق النار في مدرسة ساندي هوك في العام 2012.
+</TEXT>
+</DOC>

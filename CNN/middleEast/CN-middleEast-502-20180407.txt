@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO>CN-middleEast-502-20180407</DOCNO>
+<URL>https://arabic.cnn.com/middle-east/2018/04/07/me-070418-protest-gaza-strip-borders</URL>
+<SRC>CNN</SRC>
+<CAT>middleEast</CAT>
+<TITLE>8 قتلى وأكثر من ألف مصاب بين الفلسطينيين في جمعة "الكوشوك"</TITLE>
+<TIME>Sat, 07 Apr 2018 06:14:38 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+الفلسطينيون أطلقوا على المظاهرات "جمعة الكوشوك" التي نظمت بمناسبة "مسيرات العودة الكبرى"
+</ABSTRACT>
+<TEXT>
+(CNN)-- قتل7 فلسطينيين وأصيب أكثر من ألف آخرين خلال مواجهات بين متظاهرين فلسطينيين وقوات الجيش الإسرائيلي على طول الحدود بين قطاع غزة وإسرائيل.
+ 
+ 
+ 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-economy-7-20180210</DOCNO>
+<URL>https://arabic.cnn.com/business/2018/02/10/buss-090218-what-market-correction-romans</URL>
+<SRC>CNN</SRC>
+<CAT>economy</CAT>
+<TITLE>ماهو تصحيح سوق الأسهم؟</TITLE>
+<TIME>Sat, 10 Feb 2018 05:20:18 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+تصحيح سوق الأسهم، هو مصطلح تقني يدل على خفض بنسبة 10 بالمائة من آخر صعود
+</ABSTRACT>
+<TEXT>
+تصحيح سوق الأسهم، هو  مصطلح تقني يدل على خفض بنسبة 10 بالمائة من آخر صعود، وهو أقل خطورة من مصطلح السوق الهابطة، وذلك عندما تشهد الأسواق انخفاضاً بنسبة 20 بالمائة 
+</TEXT>
+</DOC>

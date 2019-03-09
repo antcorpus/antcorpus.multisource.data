@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-middleEast-402-20180327</DOCNO>
+<URL>https://arabic.cnn.com/travel/2018/03/27/tr-270318-60-second-vacation-dubai-food</URL>
+<SRC>CNN</SRC>
+<CAT>middleEast</CAT>
+<TITLE>دبي.. جنة عشاق الطعام!</TITLE>
+<TIME>Tue, 27 Mar 2018 17:31:37 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+في دبي أكثر من 5 آلاف مطعم.
+</ABSTRACT>
+<TEXT>
+(CNN)—مع وجود أكثر من 200 جنسية، يتنوع مشهد الطعام في دبي مثل تنوع سكانها إذ تعد جنة لعشاق الطعام.
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-sport-261-20180502</DOCNO>
+<URL>https://arabic.cnn.com/sport/2018/05/02/sp-020518-blind-football</URL>
+<SRC>CNN</SRC>
+<CAT>sport</CAT>
+<TITLE>هل سمعت عن كرة القدم "العمياء"؟ تعرف على قوانينها</TITLE>
+<TIME>Wed, 02 May 2018 15:20:49 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+كرة القدم "العمياء" هي جزء من كرة الصالات.
+</ABSTRACT>
+<TEXT>
+كرة القدم "العمياء" هي جزء من كرة الصالات، حيث يبدو كل اللاعبين في الملعب "مكفوفين"
+</TEXT>
+</DOC>

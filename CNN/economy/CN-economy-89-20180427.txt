@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-economy-89-20180427</DOCNO>
+<URL>https://arabic.cnn.com/business/2018/04/27/buss-270418-subway-restaurant-closings-orig-cnnmoney</URL>
+<SRC>CNN</SRC>
+<CAT>economy</CAT>
+<TITLE>"صب واي" بصدد إغلاق 500 فرع بأمريكا</TITLE>
+<TIME>Fri, 27 Apr 2018 08:09:12 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+وهي تملك فروعاً أكثر من أي سلسلة مطاعم سريعة أخرى
+</ABSTRACT>
+<TEXT>
+أعلنت سلسلة مطاعم "صب واي" أنها تعتزم إغلاق 500 فرع لها داخل الولايات المتحدة خلال العام الجاري.
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-481-20180813</DOCNO>
+<URL>http://arabic.cnn.com/world/video/2018/08/13/v64332-wd-130818-plane-emergency-landing-california-highway</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>طائرة صغيرة تهبط اضطراريا بين سيارات على طريق سريع</TITLE>
+<TIME>Mon, 13 Aug 2018 19:46:46 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+وثقت كاميرا سائق سيارة من كاليفورنيا طائرة اضطرت إلى هبوط طارئ على الطريق السريع.
+</ABSTRACT>
+<TEXT>
+وثقت كاميرا سائق سيارة من كاليفورنيا طائرة اضطرت إلى هبوط طارئ على الطريق السريع.
+</TEXT>
+</DOC>

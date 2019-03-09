@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO>SK-internationalNews-124-20180225</DOCNO>
+<URL>https://www.skynewsarabia.com/web/article/1025078</URL>
+<SRC>skynews</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>زلزال عنيف يهز بابوا غينيا الجديدة</TITLE>
+<TIME>Sun, 25 Feb 2018 19:08:44 GMT</TIME>
+<AUTHOR>أبوظبي - سكاي نيوز عربية</AUTHOR>
+<ABSTRACT>
+قالت هيئة المسح الجيولوجيا الأميركية إن زلزالا بقوة 7.5 درجات ضرب بابوا غينيا الجديدة الأحد.
+</ABSTRACT>
+<TEXT>
+قالت هيئة المسح الجيولوجيا الأميركية إن زلزالا بقوة 7.5 درجات ضرب بابوا غينيا الجديدة الأحد.
+ونقلت رويترز عن الهيئة الأميركية إن الزلزال كان على عمق 21.7 ميل.
+</TEXT>
+</DOC>

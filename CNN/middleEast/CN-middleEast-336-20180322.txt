@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-middleEast-336-20180322</DOCNO>
+<URL>https://arabic.cnn.com/middle-east/2018/03/22/me-220318-syrians-evacuated-eastern-ghouta</URL>
+<SRC>CNN</SRC>
+<CAT>middleEast</CAT>
+<TITLE>شاهد.. بدء عمليات إخلاء الغوطة الشرقية</TITLE>
+<TIME>Thu, 22 Mar 2018 15:07:09 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+يأتي ذلك بعد التوصل لاتفاق بين حركة أحرار الشام والنظام السوري بحسب ما أعلنه التلفزيون السوري الحكومي والمعارضة السورية.
+</ABSTRACT>
+<TEXT>
+(CNN)-- بدأت عمليات إخلاء مقاتلي المعارضة وعائلاتهم من منطقة الغوطة الشرقية المحاصرة من قبل قوات النظام السوري.  
+</TEXT>
+</DOC>

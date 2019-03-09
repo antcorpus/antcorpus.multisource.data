@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-48-20180301</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/03/01/wd-010318-woman-killed-lion-reserve</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>أسد ينهش فتاة حتى الموت في جنوب أفريقيا</TITLE>
+<TIME>Thu, 01 Mar 2018 18:45:57 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+المرأة كانت تزور محمية دينوكينغ الطبيعية، التي يديرها كيفين ريتشاردسون.
+</ABSTRACT>
+<TEXT>
+(CNN)-- تعرضت فتاة تبلغ من العمر 22 عاماً للنهش حتى الموت من قبل أسد داخل محمية طبيعية في جنوب أفريقيا.
+</TEXT>
+</DOC>

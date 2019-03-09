@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-middleEast-286-20180317</DOCNO>
+<URL>https://arabic.cnn.com/middle-east/2018/03/17/me-170318-west-bank-car-ramming-attack</URL>
+<SRC>CNN</SRC>
+<CAT>middleEast</CAT>
+<TITLE>شاهد.. مقتل جنديين إسرائيليين في هجوم بسيارة في الضفة الغربية</TITLE>
+<TIME>Sat, 17 Mar 2018 09:35:00 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+وقع الهجوم الساعة 4:15 مساءً، على مقربة من مستوطنة ريحان التي تبعد نحو 25 كيلومتراً غربي جنين.
+</ABSTRACT>
+<TEXT>
+(CNN)-- لقي جنديان إسرائيليان مصرعهما وأصيب ثلاثة آخرون فى هجوم بسيارة بعد ظهر الجمعة فى شمالي الضفة الغربية، وفقاً لما ذكره الجيش الإسرائيلي وخدمات الطوارئ.
+</TEXT>
+</DOC>

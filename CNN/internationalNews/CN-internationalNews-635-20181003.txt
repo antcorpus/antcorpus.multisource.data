@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-635-20181003</DOCNO>
+<URL>http://arabic.cnn.com/world/video/2018/10/03/v66324-indonesia-volcano-erupt</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>الكوارث تتوالى.. لحظة ثوران بركان في إندونيسيا</TITLE>
+<TIME>Wed, 03 Oct 2018 13:56:47 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+انفجر بركان بالقرب من مدينة بالو الإندونيسية بعد أيام من الزلزال المدمر وأمواج تسونامى التى أسفرت عن مقتل أكثر من 1400 شخص على الأقل.
+</ABSTRACT>
+<TEXT>
+انفجر بركان بالقرب من مدينة بالو الإندونيسية بعد أيام من الزلزال المدمر وأمواج تسونامى التى أسفرت عن مقتل أكثر من 1400 شخص على الأقل.
+</TEXT>
+</DOC>

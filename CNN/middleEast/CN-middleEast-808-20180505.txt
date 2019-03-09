@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-middleEast-808-20180505</DOCNO>
+<URL>https://arabic.cnn.com/middle-east/2018/05/05/me-050518-lebanese-election</URL>
+<SRC>CNN</SRC>
+<CAT>middleEast</CAT>
+<TITLE>انتخابات لبنان.. خيارات محيرة أمام الناخبين</TITLE>
+<TIME>Sat, 05 May 2018 08:11:32 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+السياسة هنا هي مشهد مشوش من الأديان والعشائر والأحزاب والشخصيات ...
+</ABSTRACT>
+<TEXT>
+بنثر الأرز عليه، يصعد رئيس الوزراء، سعد الحريري إلى المسرح في اليوم الأخير من الحملة .  
+</TEXT>
+</DOC>

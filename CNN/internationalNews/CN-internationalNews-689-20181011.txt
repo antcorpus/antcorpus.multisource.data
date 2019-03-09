@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-689-20181011</DOCNO>
+<URL>http://arabic.cnn.com/world/video/2018/10/11/v66622-hurricane-michael-panama-city-beach-roofs-ripped</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>الإعصار “مايكل” يمزق ويقتلع أسقف المنازل في فلوريدا</TITLE>
+<TIME>Thu, 11 Oct 2018 19:45:54 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+تسببت الرياح القوية التي رافقت الإعصار مايكل المدمر والذي ضرب بقوة ولاية فلوريدا باقتلاع وتدمير أسقف المنازل في “بنما سيتي بيتش” لم تعرف بعد ما مدى الخسائر الأخرى.
+</ABSTRACT>
+<TEXT>
+تسببت الرياح القوية التي رافقت الإعصار مايكل المدمر والذي ضرب بقوة ولاية فلوريدا باقتلاع وتدمير أسقف المنازل في “بنما سيتي بيتش” لم تعرف بعد ما مدى الخسائر الأخرى.
+</TEXT>
+</DOC>

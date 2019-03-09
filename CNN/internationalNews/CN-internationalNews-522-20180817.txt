@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-522-20180817</DOCNO>
+<URL>http://arabic.cnn.com/world/video/2018/08/17/v64449-wd-170818-bridge-flooded-kerala</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>فيضانات الهند.. سيارات تعبر جسرا قبل انهياره بلحظات</TITLE>
+<TIME>Fri, 17 Aug 2018 11:45:17 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+تسببت فيضانات وانهيارات أرضية وانهيار جسور وطرق في مقتل أكثر من 100 شخص في ولاية كيرالا جنوبي الهند.
+</ABSTRACT>
+<TEXT>
+تسببت فيضانات وانهيارات أرضية وانهيار جسور وطرق في مقتل أكثر من 100 شخص في ولاية كيرالا جنوبي الهند.
+</TEXT>
+</DOC>

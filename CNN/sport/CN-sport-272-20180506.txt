@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-sport-272-20180506</DOCNO>
+<URL>https://arabic.cnn.com/sport/2018/05/06/sp-060518-ime-mo-salah-first-coach</URL>
+<SRC>CNN</SRC>
+<CAT>sport</CAT>
+<TITLE>محمد صلاح يتحدث لـCNN عن مدربه الأول: بمثابة أبي</TITLE>
+<TIME>Sun, 06 May 2018 15:15:24 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+قال صلاح في المقابلة إنه يعبتر حمدي نوح بمثابة والده الثاني.
+</ABSTRACT>
+<TEXT>
+(CNN)-- يتحدث نجم الكرة المصري، محمد صلاح، في هذا الفيديو عن أول مدرب له، حمدي نوح. وقال صلاح في المقابلة إنه يشعر بـ "عواطف عندما أراه، إنه بمثابة والدي الثاني."
+</TEXT>
+</DOC>

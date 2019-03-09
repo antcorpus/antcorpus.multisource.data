@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-technology-150-20180908</DOCNO>
+<URL>http://arabic.cnn.com/tech/video/2018/09/08/v65261-sc-080918-saturn-hexagon-vortex</URL>
+<SRC>CNN</SRC>
+<CAT>technology</CAT>
+<TITLE>ناسا تكتشف دوامة جديدة فوق كوكب زحل</TITLE>
+<TIME>Sat, 08 Sep 2018 18:24:37 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+يقول العلماء إن البنية السحابية سداسية الأضلاع التي تظهر فوق كوكب زحل يمكن أن تكون على ارتفاع مئات الأميال.
+</ABSTRACT>
+<TEXT>
+يقول العلماء إن البنية السحابية سداسية الأضلاع التي تظهر فوق كوكب زحل يمكن أن تكون على ارتفاع مئات الأميال.
+</TEXT>
+</DOC>

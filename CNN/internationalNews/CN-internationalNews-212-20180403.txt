@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-212-20180403</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/04/03/wd-030418-france-strike</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>اضراب في فرنسا ضد إصلاحات ماكرون</TITLE>
+<TIME>Tue, 03 Apr 2018 13:35:36 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+خطة الاضرابات تقضي بالاضراب يومين في كل أسبوع حتى نهاية يونيو/حزيران القادم.
+</ABSTRACT>
+<TEXT>
+(CNN)—تواجه فرنسا موجة من الإضرابات دعت إليها النقابات العمالية في قطاع السكك الحديدية، بوتيرة يومين من كل أسبوع حتى نهاية يونيو/حزيران القادم، مما ينذر بحالة من الفوضى في وسائل النقل محلياً ودولياً.
+</TEXT>
+</DOC>

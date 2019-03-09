@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-25-20180221</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/02/21/wd-210218-teen-invents-device-will-save-lives-during-shootings</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>مراهق أمريكي يخترع جهازاً لحماية الطلاب في حوادث إطلاق النار</TITLE>
+<TIME>Wed, 21 Feb 2018 19:19:53 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+جستن ريفارد هو أحد قدامى الطلاب في مدرسة سومريست الثانوية في ويسكنسون
+</ABSTRACT>
+<TEXT>
+(CNN)-- تمكن طالب في مدرسة بأمريكا من اختراع جهاز بسيط يمكنه إنقاذ حياة الطلاب خلال وقوع حوادث إطلاق النار.  
+</TEXT>
+</DOC>

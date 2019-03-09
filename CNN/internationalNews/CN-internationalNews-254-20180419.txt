@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>CN-internationalNews-254-20180419</DOCNO>
+<URL>https://arabic.cnn.com/world/2018/04/19/wd-190418-house-explosion-hurst-texas-es-sotcnn</URL>
+<SRC>CNN</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>شاهد.. لحظة انفجار منزل اصطدمت به سيارة</TITLE>
+<TIME>Thu, 19 Apr 2018 15:26:26 +0000</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+فيديو يظهر انفجار منزل بعدما اصطدمت مركبة به وضربت خطاً للغاز الأمر.
+</ABSTRACT>
+<TEXT>
+الشرطة في تكساس نشرت فيديو يظهر انفجار منزل بعدما اصطدمت مركبة به وضربت خطاً للغاز الأمر الذي أدى الى وقوع انفجار ضخم.
+</TEXT>
+</DOC>
