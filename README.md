@@ -85,6 +85,8 @@ This a sample of an article from BBC as a news web source in the "international 
 >**By using this data, you have agreed to the citation licence**.
 
 ### Publications
+:page_facing_up: A. Chouigui, O. Ben Khiroun, and B. Elayeb. **An Arabic Multi-source News Corpus: Experimenting on Single-document Extractive Summarization**. In Arabian Journal for Science and Engineering ([AJSE 2021](https://link.springer.com/article/10.1007/s13369-020-05258-z)), 46(08), 1-14, DOI : 10.1007/s13369-020-05258-z , February 2021.
+
 :page_facing_up: A. Chouigui, O. Ben Khiroun, and B. Elayeb. **ANT Corpus : An Arabic News Text Collection for Textual Classification**. In proceedings of the 14th ACS/IEEE International Conference on Computer Systems and Applications ([AICCSA 2017](http://www.aiccsa.net/AICCSA2017/)), pp. 135-142, Hammamet, Tunisia, October 30 - November 3, 2017.
 
 :page_facing_up: A. Chouigui, O. Ben Khiroun, and B. Elayeb. **A TF-IDF and Co-occurrence Based Approach for Events Extraction from Arabic News Corpus**. In proceedings of the 23rd International Conference on Natural Language & Information Systems ([NLDB 2018](http://nldb2018.cnam.fr/)), pp. 272-280, Paris, France, 13-15 June 2018.
